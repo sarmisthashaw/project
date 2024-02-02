@@ -1,0 +1,418 @@
+Restaurant Name,Rating,Cuisine,Average Cost for Two,City,Address,Latitude,Longitude
+La Pino'z Pizza,3.3,"Pizza, Pasta, Italian, Fast Food",₹400 for two,Ajmer,"Ana Sagar Lake, Ajmer",26.4840700000,74.6313600000
+Mango Masala Restaurant,4.6,"North Indian, South Indian, Fast Food, Sandwich, Beverages, Desserts",₹600 for two,Ajmer,"India Motor, Ajmer",26.4650283441,74.6390043944
+Domino's Pizza,3.8,"Pizza, Fast Food, Desserts, Italian, Pasta",₹400 for two,Ajmer,"Pal Bhichala, Ajmer",26.4654449395,74.6377031878
+Mango Curry,4.3,"North Indian, Continental, Desserts, Beverages",₹500 for two,Ajmer,"India Motor, Ajmer",26.4650670623,74.6390969306
+Rominus Pizza And Burger,3.1,"Pizza, Burger, Pasta, Wraps, Fast Food",₹600 for two,Ajmer,"Ana Sagar Lake, Ajmer",26.4811311000,74.6312075000
+Burgerlicious,3.9,"Burger, Wraps, Pizza, Fast Food, Beverages",₹300 for two,Ajmer,"Ana Sagar Lake, Ajmer",26.4901980000,74.6262090000
+KFC,New,"Burger, Fast Food, Biryani, Desserts, Beverages",₹300 for two,Ajmer,"Ana Sagar Lake, Ajmer",26.4812935391,74.6314165374
+Foodie Friends Cafe,3.4,"Sandwich, Burger, Pizza, Street Food, Chinese, Fast Food",₹300 for two,Ajmer,"Panchsheel Nagar, Ajmer",26.5004830000,74.6336829000
+Sky Grill,4.4,"Cafe, Asian, Pasta, Fast Food, Pizza, North Indian, Desserts, Beverages",₹600 for two,Ajmer,"Ana Sagar Lake, Ajmer",26.4587837332,74.6366658434
+Molecule Air Bar,4.6,"North Indian, Chinese, Continental, Italian","₹2,000 for two",Agra,"Tajganj, Agra",27.1542391651,78.0592353610
+The Salt Cafe Kitchen & Bar,4.9,"North Indian, Continental, Chinese, Italian, Finger Food","₹1,800 for two",Agra,"Tajganj, Agra",27.1576244786,78.0494100228
+Palm Burj,4.5,"North Indian, Chinese, Continental, Sushi, Sichuan, Beverages, Desserts","₹2,200 for two",Agra,"Rakabganj, Agra",27.1639061842,78.0143015832
+Unplugged Courtyard,4.4,"Mediterranean, North Indian, Continental, Chinese, Mexican, Thai, Italian, Coffee","₹1,600 for two",Agra,"Tajganj, Agra",27.1587685044,78.0617843941
+Pizza Hut,3.8,"Pizza, Fast Food, Desserts, Beverages","₹1,000 for two",Agra,"Agra Cantt, Agra",27.1589958166,78.0131747201
+Momocult,3.7,"Momos, Chinese, Fast Food",₹200 for two,Agra,"Civil Lines, Agra",27.2014383960,78.0075330526
+KFC,3.9,"Burger, Fast Food, Biryani, Desserts, Beverages",₹500 for two,Agra,"Tajganj, Agra",27.1578270332,78.0497271940
+Lights Out - Lounge & Roofpark,4.1,"Bar Food, Finger Food, North Indian, Chinese, Continental, BBQ, Italian","₹1,400 for two",Agra,"Civil Lines, Agra",27.1995218827,78.0076426640
+New Pizza King,3.8,"Pizza, Fast Food",₹500 for two,Agra,"Dayal Bagh, Agra",27.2152002341,78.0063784534
+Karavali Fine Dine,4.4,"North Indian, Biryani, Mughlai, Seafood, Chinese, Hyderabadi","₹1,200 for two",Bangalore,"Koramangala 7th Block, Bangalore",12.9358741373,77.6077060577
+The Terrace at Gilly's Redefined,4.4,"Continental, Finger Food, Chinese, North Indian, Italian, Beverages, Desserts","₹2,000 for two",Bangalore,"Gilly's Redefined, Koramangala 4th Block, Bangalore",12.9335933669,77.6233997941
+Long Boat Brewing Co.,4.2,"Asian, Steak, Pizza, Pasta, Chinese, South Indian, North Indian","₹2,600 for two",Bangalore,"Marathahalli, Bangalore",12.9520476337,77.7003846423
+Ironhill Bengaluru,4.5,"North Indian, Continental, Asian, Pizza, Fast Food, Biryani, Beverages, Desserts","₹2,000 for two",Bangalore,"Marathahalli, Bangalore",12.9509635398,77.6994350553
+Roxie,4.6,"Continental, Asian, North Indian, European, American, Italian, Pizza, Beverages","₹2,600 for two",Bangalore,"Sarjapur Road, Bangalore",12.9151978000,77.6658216000
+Pangeo,4.4,"Asian, Modern Indian, Italian, Mediterranean","₹3,500 for two",Bangalore,"Forum Rex Walk, Bangalore",12.9726391000,77.6065987000
+Oia,4.0,"Continental, Asian, Seafood, Salad, Pizza, North Indian, Desserts","₹2,500 for two",Bangalore,"Hennur, Bangalore",13.0737438079,77.6525560905
+Stories Brewery & Kitchen,4.4,"North Indian, Continental, Chinese, Finger Food, Beverages, Desserts","₹1,800 for two",Bangalore,"BTM, Bangalore",12.9058268113,77.6084169745
+One8 Commune,New,"North Indian, Chinese, Pasta, Sushi, Continental, Desserts, Beverages","₹3,000 for two",Bangalore,"Lavelle Road, Bangalore",12.9762151641,77.5991868467
+Peddlers,4.2,"North Indian, Chinese, Fast Food, Pizza, Burger, Continental, Beverages, Desserts","₹1,000 for two",Amritsar,"Ranjit Avenue, Amritsar",31.6522243000,74.8624939000
+Organic Curry,4.0,"North Indian, South Indian, Chinese",₹400 for two,Amritsar,"Ranjit Avenue, Amritsar",31.6774820000,74.8364880000
+Diago,-,"North Indian, Bar Food","₹1,000 for two",Amritsar,"Ranjit Avenue, Amritsar",31.6558404000,74.8555783000
+Pizzetto,3.2,"Pizza, Burger, Pasta, Momos, Fast Food, Salad, Shake, Beverages",₹400 for two,Amritsar,"Mohan Nagar, Amritsar",31.6178210000,74.8871320000
+Rang Punjab,4.1,"North Indian, Beverages, Desserts","₹1,000 for two",Amritsar,"Town Hall, Amritsar",31.6257668000,74.8784974000
+The Amritsar Haveli,3.7,"North Indian, South Indian, Fast Food, Chinese, Sandwich, Desserts, Pizza, Beverages",₹400 for two,Amritsar,"Town Hall, Amritsar",31.6245184231,74.8789950460
+Dumpling Hood,3.4,"Momos, Chinese",₹450 for two,Amritsar,"Ranjit Avenue, Amritsar",31.6527160000,74.8631900000
+Kafeine,-,"Pizza, Italian, Sandwich, Fast Food, Salad, Desserts",₹700 for two,Amritsar,"Ranjit Avenue, Amritsar",31.6560624000,74.8597393000
+Huber & Holly,3.7,"Ice Cream, Bakery, Pizza, Italian, Sandwich, Fast Food, Shake, Beverages",₹500 for two,Amritsar,"Ranjit Avenue, Amritsar",31.6573524475,74.8545684814
+Barista Coffee,3.7,"Cafe, Coffee, Desserts, Sandwich, Fast Food",₹550 for two,Chandigarh,"Sector 35, Chandigarh",30.7223522089,76.7613203824
+Corby's - Hyatt Centric,4.4,"North Indian, Continental, Fast Food, Chinese, Desserts, Beverages","₹2,500 for two",Chandigarh,"Hyatt Centric, Chandigarh",30.7446918875,76.7835164329
+Prankster,4.4,"North Indian, Mughlai, Asian, BBQ, Finger Food, Street Food, Desserts, Beverages","₹2,000 for two",Chandigarh,"Sector 26, Chandigarh",30.7249098493,76.8057206646
+Zeek,4.1,"North Indian, Salad, Chinese, Italian, Mughlai, Pizza, Burger, Desserts","₹1,400 for two",Chandigarh,"Sector 26, Chandigarh",30.7256145000,76.8060653000
+Tahiti - The Culinary Rooftop,3.3,"Mediterranean, North Indian, Italian, Pizza, Pasta, Salad, Desserts, Beverages","₹2,000 for two",Panchkula,"Sector 5, Panchkula",30.7016375000,76.8537118000
+Playground,4.0,"North Indian, Continental, European, Beverages","₹1,900 for two",Chandigarh,"Sector 26, Chandigarh",30.7252000799,76.8061102554
+The Finch,4.4,"North Indian, Chinese, Asian, Sushi, Oriental, Fast Food, Street Food, Beverages","₹2,500 for two",Chandigarh,"Sector 26, Chandigarh",30.7286738441,76.8032010645
+Pannacottas,4.2,"Cafe, French, Italian, Belgian, Continental, Bakery, Desserts, Beverages","₹1,200 for two",Chandigarh,"Sector 9, Chandigarh",30.7433174400,76.7899700627
+Urban Cafe - Hyatt Regency,4.3,"North Indian, Continental, Oriental, Fast Food, Kebab, Salad, Desserts, Beverages","₹4,000 for two",Chandigarh,"Hyatt Regency, Chandigarh Industrial Area, Chandigarh",30.7047901000,76.8003430000
+Ecko- Artisanal Bistro,4.3,"North Indian, Continental, Chinese, Biryani, Pizza, Pasta, Desserts, Cafe","₹1,000 for two",Bhopal,"Gulmohar Colony, Bhopal",23.1937492116,77.4355801596
+Chalu Chinese,4.3,"Chinese, Momos, Sichuan",₹600 for two,Bhopal,"Gulmohar Colony, Bhopal",23.1879508114,77.4331567436
+WOW! Momo,4.0,"Momos, Fast Food, Tibetan, Sichuan, Beverages",₹350 for two,Bhopal,"Maharana Pratap Nagar, Bhopal",23.2329890000,77.4298830000
+The Bastion,3.9,"Continental, North Indian, Chinese, Biryani, Mughlai, Desserts","₹1,200 for two",Bhopal,"Hoshangabad Road, Bhopal",23.1970339227,77.4481293355
+WOW! China,3.8,"Chinese, Oriental, Asian, Sichuan, Seafood",₹550 for two,Bhopal,"Maharana Pratap Nagar, Bhopal",23.2329890000,77.4298830000
+Fagito,4.0,"North Indian, Oriental, Italian","₹1,000 for two",Bhopal,"Arera Colony, Bhopal",23.1979898678,77.4172473339
+Pizza Hut,4.0,"Pizza, Fast Food, Pasta, Desserts, Italian","₹1,000 for two",Bhopal,"Kohefiza, Bhopal",23.2685600000,77.3775400000
+Pitchers Cafe Bar,2.9,"North Indian, Chinese, Italian, Burger, Fast Food, Pasta, Biryani, Desserts","₹1,500 for two",Bhopal,"DB City, Maharana Pratap Nagar, Bhopal",23.2326980000,77.4298564000
+Domino's Pizza,3.9,"Pizza, Fast Food, American, Chinese, Desserts",₹500 for two,Bhopal,"JP Nagar, Bhopal",23.3045012008,77.4220121911
+KFC,4.1,"Burger, Fast Food, Biryani, Desserts, Beverages",₹450 for two,Cuttack,"Mal Godown Market, Cuttack",20.4600111000,85.8810286000
+Burger Singh - Big Punjabi Burgers,-,"Burger, American, North Indian, Fast Food, Desserts, Beverages",₹300 for two,Cuttack,"Buxi Bazaar, Cuttack",20.4765866425,85.8692067588
+Domino's Pizza,3.6,"Pizza, Italian, Pasta, Fast Food, Desserts",₹400 for two,Cuttack,"Sutahat, Cuttack",20.4679980000,85.8694170000
+Pizza Corner,3.5,"Street Food, Fast Food, Burger, Pizza, Sandwich, Pasta, Desserts, Shake",₹400 for two,Cuttack,"Siba Bazaar, Cuttack",20.4720180000,85.8638190000
+Bijay Dhaba,-,"North Indian, Mughlai, Chinese, Seafood, Biryani, Kebab, Continental, Desserts","₹1,000 for two",Cuttack,"Kalyani Nagar, Cuttack",20.4113817000,85.8793322000
+Oberai Bakers & Cafe,3.1,"Bakery, North Indian, Chinese, Thai, Italian, Fast Food, Mughlai, Biryani",₹600 for two,Cuttack,"CDA Sector 6, Cuttack",20.4806524265,85.8252893975
+Bombay Restaurant- Hotel Bombay Inn,4.0,"North Indian, South Indian, Chinese, Fast Food, Beverages",₹400 for two,Cuttack,"Siba Bazaar, Cuttack",20.4689614000,85.8970286000
+Blast,4.3,"Chinese, North Indian, Seafood, Beverages, Shake, Sichuan","₹1,000 for two",Cuttack,"Siba Bazaar, Cuttack",20.4681879662,85.8960076422
+Faltu Restaurant,3.5,"Biryani, North Indian, Chinese",₹700 for two,Cuttack,"Mal Godown Market, Cuttack",20.4773879421,85.9029351175
+Lafayette By Mug Cakes,4.1,"Italian, American, Desserts","₹1,100 for two",Chennai,"Nungambakkam, Chennai",13.0615342000,80.2389598000
+Glen`s Bakehouse,3.5,"Bakery, Desserts, Italian, Cafe, Coffee, Chinese, Fast Food, Beverages","₹1,100 for two",Chennai,"Anna Nagar West, Chennai",13.0841673000,80.2104432000
+On D Roof Restaurant,3.7,"Chinese, North Indian, Mughlai, Seafood, Biryani, Kebab, Desserts, Beverages",₹800 for two,Chennai,"Anna Nagar East, Chennai",13.0845470436,80.2173651382
+Sundays,4.5,"Italian, Continental, Asian, North Indian, South Indian, European, Beverages","₹1,800 for two",Chennai,"Anna Nagar East, Chennai",13.0850800075,80.2250084281
+Bike & Barrel - The Residency Towers,4.0,"Finger Food, Beverages","₹3,000 for two",Chennai,"The Residency Towers, T. Nagar, Chennai",13.0404344125,80.2438244596
+Sky | Curated Asian Dining - The Residency Towers,4.5,"Asian, North Indian, Chinese, Biryani, Sushi, Desserts","₹2,500 for two",Chennai,"T. Nagar, Chennai",13.0400924309,80.2436497808
+Pasha - The Park,4.2,"Bar Food, Beverages, Italian, North Indian","₹4,000 for two",Chennai,"The Park, Nungambakkam, Chennai",13.0536256549,80.2495425940
+601 - The Park,4.0,"North Indian, Chinese, Italian, Continental, Desserts, Beverages","₹3,000 for two",Chennai,"The Park, Nungambakkam, Chennai",13.0530155424,80.2498295903
+Secret Story,4.3,"North Indian, Chinese, Italian, Fast Food","₹3,500 for two",Chennai,"Nungambakkam, Chennai",13.0601032715,80.2490098402
+Cé La Vie Kitchen & Bar,4.2,"North Indian, Mediterranean, Continental, Sushi, Italian, Lebanese, Asian, Bar Food","₹2,200 for two",Delhi,"Middle Circle, Connaught Place, New Delhi",28.6354845416,77.2194425014
+Ministry Of Beer,4.3,"North Indian, Italian, Asian, Continental, Chinese, Beverages","₹2,800 for two",Delhi,"Connaught Place, New Delhi",28.6333165140,77.2227491811
+Chido,4.4,"North Indian, Asian, Lebanese, Italian, European, Chinese, Beverages","₹2,000 for two",Delhi,"Connaught Place, New Delhi",28.6323242195,77.2224531323
+Unplugged Courtyard,4.1,"North Indian, Chinese, Turkish, Sushi, Salad, Pizza, Biryani, Beverages","₹2,000 for two",Delhi,"Connaught Place, New Delhi",28.6342417053,77.2215200588
+Openhouse Cafe,4.2,"Continental, Chinese, North Indian, Mughlai, Pizza, Beverages, Desserts, Bar Food","₹2,000 for two",Delhi,"Connaught Place, New Delhi",28.6341039865,77.2206362709
+Somewhere Restaurant & Bar,4.4,"Asian, Lebanese, Continental, North Indian, Fast Food, Bar Food, Desserts, Beverages","₹2,600 for two",Delhi,"Middle Circle, Connaught Place, New Delhi",28.6354140000,77.2193580000
+MKT,4.2,"Asian, North Indian, European, Biryani, Pizza, Pasta, Japanese, Mexican","₹3,000 for two",Delhi,"Chanakya Mall, Chanakyapuri, New Delhi",28.5842049000,77.1907172000
+Lord Of The Drinks,4.3,"Oriental, North Indian, Continental, Italian, Salad, Fast Food, Desserts, Beverages","₹2,400 for two",Delhi,"Connaught Place, New Delhi",28.6318689734,77.2169230878
+Connaught Club House,4.3,"North Indian, Mughlai, Italian, Continental, Asian, Fast Food, Desserts","₹3,000 for two",Delhi,"Janpath, New Delhi",28.6272228000,77.2206281000
+Kunga Restaurant,4.7,"Continental, Fast Food, Street Food, Tibetan, Beverages",₹400 for two,Darjeeling,"Chauk Bazaar, Darjeeling",27.0415920326,88.2664366812
+Hotel Lunnar,3.9,"North Indian, South Indian, Chinese, Sandwich, Fast Food, Desserts, Juices, Beverages","₹1,000 for two",Darjeeling,"Chauk Bazaar, Darjeeling",27.0414971000,88.2665255000
+KFC,3.9,"Burger, Fast Food, Biryani, Desserts, Beverages",₹400 for two,Darjeeling,"Chauk Bazaar, Darjeeling",27.0430191411,88.2670271024
+Tibet Kitchen,3.9,"Tibetan, North Indian, Chinese",₹400 for two,Darjeeling,"Chauk Bazaar, Darjeeling",27.0381278000,88.2665488000
+Park,4.9,"Tibetan, North Indian, Chinese, Beverages",₹800 for two,Darjeeling,"Limbugaon, Darjeeling",27.0404892881,88.2655869325
+Hotel Shangri-La,4.3,"Tibetan, North Indian, Chinese, Sichuan",₹800 for two,Darjeeling,"Chauk Bazaar, Darjeeling",27.0438928965,88.2673529908
+WOW! Momo,4.0,"Momos, Fast Food, Tibetan, Sichuan, Beverages",₹400 for two,Goa,"Panaji, Goa",15.4850639152,73.8104720414
+Kismoor Sangolda,4.5,"Goan, Seafood, South Indian, North Indian, Oriental, Desserts, Beverages","₹1,400 for two",Goa,"Penha de Franca, Goa",15.5438226547,73.8124669343
+Mikey's Place,4.4,"Continental, North Indian, Goan, Seafood, Salad, Desserts, Chinese","₹1,200 for two",Goa,"Candolim, Goa",15.5082386000,73.7700022000
+Tereza Beach House-By Sly Granny,4.3,"Continental, Pizza, Italian, Goan, Fast Food, Salad, Desserts","₹1,900 for two",Goa,"Nerul, Goa",15.5000596730,73.7926749140
+Palms N Sands,4.3,"Continental, Seafood, Goan, North Indian, Chinese, Fast Food, Desserts, Beverages","₹1,300 for two",Goa,"Candolim Beach, Candolim, Goa",15.5048489879,73.7671456486
+Cohiba,4.0,"Finger Food, Continental, Bar Food, Goan, Italian, Seafood, North Indian, Desserts","₹1,800 for two",Goa,"Candolim, Goa",15.4981903110,73.7757139653
+Schandis,4.3,"Middle Eastern, Shawarma, Biryani, Kebab, Lebanese, Desserts, Beverages","₹1,800 for two",Goa,"Panaji, Goa",15.4639995868,73.8048816472
+SinQ Nightclub,4.0,Finger Food,"₹2,000 for two",Goa,"Candolim, Goa",15.5013910904,73.7715736404
+Frida Cantina,4.2,"Continental, Bar Food, Mexican, Desserts, Beverages","₹2,000 for two",Goa,"Panaji, Goa",15.4852542243,73.8110926375
+Domino's Pizza,3.8,"Pizza, Italian, Pasta, Fast Food, Desserts",₹400 for two,Dharamshala,"Ram Nagar, Dharamshala",32.2210030000,76.3197750000
+Trek and Dine,4.4,,₹800 for two,Dharamshala,"Mcleodganj, Dharamshala",32.2469982408,76.3261651620
+Gunn-Powder - D'Polo Club & Spa Resort,4.2,"North Indian, Continental, Chinese",₹600 for two,Dharamshala,"Chilgari, Dharamshala",32.1884667201,76.3363894075
+Jimmy Italian Kitchen,4.3,"Italian, Tea, Juices, Desserts, Pizza",₹600 for two,Dharamshala,"Mcleodganj, Dharamshala",32.2393139602,76.3254637644
+The Roadside Dinner,New,"Rolls, North Indian, Chinese, Beverages, Street Food",₹500 for two,Dharamshala,"Loharkadi, Dharamshala",32.2215323000,76.3198591000
+Kalimpong Restaurant,4.7,Chinese,₹400 for two,Dharamshala,"Mcleodganj, Dharamshala",32.2389163722,76.3243710995
+Tibet Kitchen,4.0,"Chinese, North Indian, Tibetan, Momos",₹600 for two,Dharamshala,"Mcleodganj, Dharamshala",32.2385440218,76.3238396868
+Gobblers,4.0,"North Indian, Mughlai, Chinese, Fast Food, Biryani, Desserts, Sichuan",₹750 for two,Dharamshala,"Shyam Nagar, Dharamshala",32.1975350000,76.3441120000
+Hotel 360 Country Club,4.3,"North Indian, Mughlai, Chinese, Biryani, Continental, Desserts","₹1,000 for two",Dharamshala,"Shyam Nagar, Dharamshala",32.1991287739,76.3655417963
+Kori's,4.2,"Korean, Cafe, Asian, Japanese, Seafood, Sushi, Beverages, Momos","₹1,000 for two",Guwahati,"Zoo Tiniali, Guwahati",26.1665404811,91.7794297636
+The Square - Novotel Guwahati GS Road,4.0,"Asian, Continental, French","₹3,350 for two",Guwahati,"Six Mile, Guwahati",26.1389504708,91.7985223979
+Taco Bell,3.6,Mexican,₹400 for two,Guwahati,"Christian Basti, Guwahati",26.1534090000,91.7810100000
+Barbeque Nation,3.8,"North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts","₹1,750 for two",Guwahati,"Dispur, Guwahati",26.1398529931,91.7989016409
+Aminia Restaurant,3.3,"North Indian, Rolls, Biryani, Kebab","₹1,000 for two",Guwahati,"Ulubari, Guwahati",26.1725328722,91.7605610991
+Burger Tree,3.5,"Burger, Sandwich, Fast Food",₹300 for two,Guwahati,"Zoo Tiniali, Guwahati",26.1627401196,91.7810227847
+AS 01 Cafe,3.9,"North Indian, Chinese, Fast Food, Biryani, Salad, Momos, Tea, Beverages",₹450 for two,Guwahati,"Chandmari, Guwahati",26.1789988000,91.7739250000
+Attic-The Restro Cafe,4.0,"North Indian, Chinese, Italian, Continental, Desserts, Beverages","₹1,000 for two",Guwahati,"Christian Basti, Guwahati",26.1569150000,91.7770810000
+KFC,3.7,"Burger, Fast Food, Biryani, Desserts, Beverages",₹450 for two,Guwahati,"Ganeshguri, Guwahati",26.1440240000,91.7865060000
+Domino's Pizza,3.4,"Pizza, Italian, Pasta, Fast Food, Desserts",₹400 for two,Gorakhpur,"Bichhiya, Gorakhpur",26.7495890000,83.4019900000
+Burger King,4.0,"Burger, Fast Food, Beverages",₹350 for two,Gorakhpur,"Golghar, Gorakhpur",26.7564440000,83.3667250000
+Rominus Pizza And Burger,-,"Pizza, Burger, Fast Food",₹350 for two,Gorakhpur,"North Humayunpur, Gorakhpur",26.7687125000,83.3572673000
+Pizza Hut,3.8,"Pizza, Rolls",₹400 for two,Gorakhpur,"Shahpur, Gorakhpur",26.7724095800,83.3822114000
+Pizza King Mania,3.6,Pizza,₹250 for two,Gorakhpur,"Betiahata, Gorakhpur",26.7356950000,83.3675150000
+Rangrezza Restaurant,4.1,"Mexican, Italian, Continental, Chinese, Mughlai, North Indian, Biryani, Desserts","₹1,000 for two",Gorakhpur,"Golghar, Gorakhpur",26.7534559118,83.3784099602
+Chinese Lover,-,"Chinese, Fast Food, Beverages",₹250 for two,Gorakhpur,"Jatepur, Gorakhpur",26.7772484000,83.3579163000
+Star Biryani,4.2,Biryani,₹150 for two,Gorakhpur,"Bade Kajipur, Gorakhpur",26.7541551106,83.3604507521
+Barbeque Nation,4.5,North Indian,"₹1,500 for two",Gorakhpur,"City Mall, Golghar, Gorakhpur",26.7534000000,83.3751000000
+Ohri's Uppu,4.4,"Andhra, South Indian, Desserts, Beverages","₹1,200 for two",Hyderabad,"Banjara Hills, Hyderabad",17.4084335565,78.4389251098
+Aura Cafe & Infusion Bar,4.6,"Continental, Italian, Chinese, Fast Food, Desserts","₹2,000 for two",Hyderabad,"Jubilee Hills, Hyderabad",17.4358399412,78.4120681509
+Dhaba - Estd 1986 Delhi,4.5,"North Indian, Mughlai, Kebab, Paan, Desserts, Beverages",₹950 for two,Hyderabad,"Kondapur, Hyderabad",17.4579512982,78.3730007708
+Sobremesa- Bakehouse Cafe Kitchen,4.4,"Coffee, Continental, Desserts, Italian, Pasta, Beverages, Bakery, Salad","₹1,800 for two",Hyderabad,"Jubilee Hills, Hyderabad",17.4362364798,78.4053895838
+Aqua - The Park,4.1,"North Indian, Continental, Fast Food, Finger Food, Desserts, Beverages","₹2,500 for two",Hyderabad,"The Park, Somajiguda, Hyderabad",17.4240797000,78.4619160000
+Verandah - The Park,4.1,"North Indian, Continental, Chinese, Biryani, Oriental, Desserts, Beverages","₹3,000 for two",Hyderabad,"Somajiguda, Hyderabad",17.4240641000,78.4619032000
+Roast 24 Seven,4.2,"Cafe, Beverages, Italian, Continental, North Indian, Fast Food, Asian","₹1,000 for two",Hyderabad,"Gachibowli, Hyderabad",17.4372710000,78.3671900000
+President Dhaba,3.8,"North Indian, Chinese, Mughlai, Seafood, Desserts, Beverages",₹950 for two,Hyderabad,"Madhapur, Hyderabad",17.4501689693,78.3857489750
+Telankhana,4.1,"Kebab, Biryani, Hyderabadi, North Indian, Chinese",₹400 for two,Hyderabad,"Kondapur, Hyderabad",17.4627614000,78.3673964000
+Domino's Pizza,4.1,"Pizza, Italian, Pasta, Fast Food, Desserts",₹400 for two,Gwalior,"City Center, Gwalior",26.2092280867,78.1880963221
+Molecule,4.4,"Asian, Chinese, Bar Food","₹1,000 for two",Gwalior,"Lashkar, Gwalior",26.2122831898,78.1752013960
+Burger Budds,3.9,Burger,₹400 for two,Gwalior,"Vinay Nagar, Gwalior",26.2204800000,78.1604510000
+Mini Cafe,3.7,Fast Food,₹300 for two,Gwalior,"City Center, Gwalior",26.2061136000,78.2014289000
+Pizza Hut,4.1,"Pizza, Fast Food, Desserts, Beverages",₹600 for two,Gwalior,"DD City Mall, Lashkar, Gwalior",26.2087768776,78.1661843508
+Alice In Gelatoland Shahi Durbar,-,"Ice Cream, Desserts, Coffee, Pancake, Waffle",₹300 for two,Gwalior,"City Center, Gwalior",26.2108127191,78.1995872408
+Bistro 57,4.3,"Beverages, Chinese, Fast Food, Momos, Desserts, Pizza, Sandwich, Shake",₹700 for two,Gwalior,"City Center, Gwalior",26.2090984395,78.1909418106
+Burger Point,3.4,"Burger, Sandwich, Wraps, Fast Food, Shake, Beverages",₹350 for two,Gwalior,"City Center, Gwalior",26.2089280000,78.1909515000
+Hello Hunger Foods,3.9,"North Indian, Fast Food, Street Food, Sandwich, Burger, Beverages",₹300 for two,Gwalior,"Shinde Ki Chhawani, Gwalior",26.2193365897,78.1760921565
+Code Black,4.5,"North Indian, Chinese, Continental, Italian, Middle Eastern, Biryani, Bar Food, Beverages","₹1,700 for two",Jaipur,"Tonk Road, Jaipur",26.8892828007,75.8033627272
+Barista Coffee,4.0,"Cafe, Coffee, Desserts",₹700 for two,Jaipur,"C Scheme, Jaipur",26.9099203424,75.8076438680
+Code Black Jaipur,4.0,"North Indian, Fast Food, Chinese, Italian, Pizza, Pasta, Desserts, Beverages","₹1,200 for two",Jaipur,"Malviya Nagar, Jaipur",26.8547222814,75.8074671775
+Jaipur Modern Kitchen,4.2,"Italian, Healthy Food, Mediterranean, Wraps, Mexican, Salad, Desserts, Beverages","₹1,900 for two",Jaipur,"C Scheme, Jaipur",26.9139722392,75.7988539338
+The Night Jar,4.5,Bar Food,"₹1,200 for two",Jaipur,"Leisure Inn Grand Chanakya, MI Road, Jaipur",26.9165265367,75.8079848439
+Up & Up,4.1,"Chinese, North Indian, Momos, Oriental, Fast Food, Desserts, Shake, Beverages","₹1,800 for two",Jaipur,"Bapu Nagar, Jaipur",26.8931201463,75.8073401079
+Retreat,4.2,"North Indian, Chinese, Continental, Fast Food, Finger Food, Desserts, Beverages","₹1,900 for two",Jaipur,"C Scheme, Jaipur",26.9153635971,75.8063503727
+Skyloft Open Air Lounge,4.4,"Continental, North Indian, Chinese, Pizza, Pasta, Kebab, Biryani, Oriental","₹1,500 for two",Jaipur,"Sodala, Jaipur",26.8877649305,75.7680490986
+The Burj,3.9,"Healthy Food, North Indian, Sandwich, Lebanese, Turkish, Asian, Desserts, Beverages","₹1,500 for two",Jaipur,"Tonk Road, Jaipur",26.8405866000,75.7945196000
+Flame By Fire & Smoke,4.4,"North Indian, Chinese, Seafood, Biryani, Oriental, Desserts","₹1,000 for two",Indore,"Vijay Nagar, Indore",22.7440503000,75.8927597000
+Mama Loca,4.2,"Pizza, Pasta, Italian, Continental, Shawarma, Middle Eastern, Lebanese, Greek","₹1,000 for two",Indore,"New Palasia, Indore",22.7281555000,75.8842623000
+Terazza,3.9,"Cafe, North Indian, Italian, Fast Food, Beverages",₹900 for two,Indore,"Vijay Nagar, Indore",22.7449444013,75.8922041953
+Split Bean,3.5,"North Indian, Chinese, Pizza, Pasta, Fast Food, Ice Cream, Desserts, Shake","₹1,000 for two",Indore,"MR 10 Road, Indore",22.7498025189,75.9050999209
+Ring Road Social,4.5,"North Indian, Chinese, Biryani, Pizza, Burger, Fast Food, Desserts, Beverages","₹1,500 for two",Indore,"Vijay Nagar, Indore",22.7499598978,75.9047582746
+Crazy Coffee,4.0,"Cafe, Coffee, Pizza, Sandwich, Wraps, Desserts, Tea, Shake",₹350 for two,Indore,"Vijay Nagar, Indore",22.7461651000,75.8955512000
+Dopamine,4.5,"Asian, North Indian, Continental, Italian, Bar Food, Pizza, Sushi, Salad","₹1,500 for two",Indore,"Vijay Nagar, Indore",22.7453646250,75.9038267500
+Mate Connect Coffee,3.9,"Cafe, Coffee, Beverages, Fast Food",₹400 for two,Indore,"Vijay Nagar, Indore",22.7459528361,75.8928254847
+UK Restaurants And Kitchens,3.5,"North Indian, Chinese, Biryani, Kebab",₹500 for two,Indore,"Mangal City Mall, Vijay Nagar, Indore",22.7451322000,75.8954126000
+Roadies Koffeehouz,3.9,"Cafe, Coffee, Continental, Mexican, Fast Food, Salad, Italian, Desserts","₹1,100 for two",Jalandhar,"PPR Market, Jalandhar",31.2982006000,75.5835695800
+Diet Master,3.6,"Healthy Food, Salad, Burger, Sandwich, Fast Food",₹300 for two,Jalandhar,"Model Town, Jalandhar",31.3056464000,75.5781145000
+Barbeque Nation,4.4,North Indian,"₹1,400 for two",Jalandhar,"Model Town, Jalandhar",31.3051818000,75.5813572000
+D7 Fast Food,4.5,"Sandwich, Pasta, Burger, Street Food, Chinese, Shake",₹350 for two,Jalandhar,"Model House, Jalandhar",31.3184194385,75.5558384210
+Hungry Owl,3.5,"Chinese, North Indian, Fast Food, Coffee, Tea",₹350 for two,Jalandhar,"Shastri Nagar, Jalandhar",31.3203504869,75.5695931241
+The Burger Company,-,"Burger, Pizza, Sandwich, Momos, Pasta, Fast Food, Desserts, Beverages",₹500 for two,Jalandhar,"Shastri Nagar, Jalandhar",31.3234468000,75.5673265000
+Burger King,4.1,"Burger, Fast Food, Beverages",₹350 for two,Jalandhar,"Shastri Nagar, Jalandhar",31.3165963344,75.5770332366
+Pirates Of Grill,4.6,"North Indian, BBQ, Chinese, Asian, Mughlai, Salad, Oriental, Desserts","₹1,700 for two",Jalandhar,"Shastri Nagar, Jalandhar",31.3173401881,75.5765387043
+Pizza Hut,3.3,"Pizza, Fast Food, Desserts, Beverages",₹600 for two,Jalandhar,"GT Road, Jalandhar",31.3453363000,75.5859347300
+The Flamingo,4.0,"North Indian, Chinese, Mughlai, Fast Food, Desserts, Beverages","₹1,200 for two",Jodhpur,"Ratanada, Jodhpur",26.2703868091,73.0375143886
+The Blackbird Cafe,3.4,"Pizza, Burger, Sandwich, Pasta",₹300 for two,Jodhpur,"Basni, Jodhpur",26.2106397582,73.0295676738
+Punjabi Chic Inn,4.3,"Mughlai, North Indian, Chinese, Fast Food",₹400 for two,Jodhpur,"Shastri Nagar, Jodhpur",26.2709589394,73.0052289739
+Fomo,3.1,"North Indian, Chinese, Italian, Fast Food, Burger, Pizza, Desserts, Beverages","₹1,100 for two",Jodhpur,"Sardarpura, Jodhpur",26.2668198755,73.0145734549
+La Pino'z Pizza,4.0,"Pizza, Pasta, Italian, Fast Food, Burger, Beverages",₹600 for two,Jodhpur,"Sardarpura, Jodhpur",26.2759534599,73.0064426735
+The Selfieccino,-,"Cafe, Coffee, Chinese, Sandwich, Pizza, Fast Food, Tea",₹600 for two,Jodhpur,"Chopasni Housing Board, Jodhpur",26.2607496000,72.9707484000
+Khaas Bagh,4.9,"North Indian, Mughlai, Rajasthani, Shake","₹1,750 for two",Jodhpur,"Ratanada, Jodhpur",26.2827101000,73.0299229000
+Hola,3.9,"North Indian, Biryani, Chinese, Fast Food, Continental, Beverages, Shake, Coffee","₹1,300 for two",Jodhpur,"Shastri Nagar, Jodhpur",26.2583614000,73.0113629000
+Kava Grill And Lounge - Fairfield By Marriott,4.4,"North Indian, Chinese, Pasta, Italian, Continental, South Indian, Desserts, Beverages","₹2,000 for two",Jodhpur,"Fairfield By Marriott, Sangria, Jodhpur",26.2173580000,73.0444610000
+Hoy Punjab,4.3,"North Indian, Street Food, Oriental, Biryani, Desserts, Beverages","₹1,400 for two",Kochi,"Kacheripady, Kochi",9.9871100000,76.2852500000
+Chinese Wok,3.9,Chinese,₹300 for two,Kochi,"Palarivattom, Kochi",10.0116160000,76.3225660000
+District 7 Encore,3.9,"Continental, Asian, Seafood, Chinese, Burger, Fast Food","₹1,800 for two",Kochi,"Elamkulam, Kochi",9.9760809420,76.3001809871
+KFC,3.4,"Burger, Fast Food, Desserts, Beverages",₹450 for two,Kochi,"Gold Souk Grandé, Vytilla, Kochi",9.9782234000,76.3170848000
+Flamin' Hot Chicken,3.7,"Fast Food, Beverages",₹300 for two,Kochi,"Edappally, Kochi",10.0135700000,76.3100100000
+Spice It - ibis Kochi City Centre,4.4,"Continental, North Indian, Healthy Food, Wraps, Fast Food, Desserts, Beverages","₹1,600 for two",Kochi,"ibis Kochi City Centre, MG Road, Kochi",9.9810221000,76.2828411000
+Domino's Pizza,3.5,"Pizza, Italian, Fast Food, Desserts",₹500 for two,Kochi,"Vyttila, Kochi",9.9639693467,76.3182207942
+Deli KC - Holiday Inn,3.6,"Cafe, Continental, Fast Food, Beverages, Desserts","₹1,100 for two",Kochi,"Holiday Inn Cochin, Vennala, Kochi",9.9901950000,76.3160800000
+District 7 Restro Cafe,4.1,"Continental, Cafe, Chinese, Beverages",₹700 for two,Kochi,"Vyttila, Kochi",9.9635306016,76.3181016678
+Kebabs & Curries Company,4.6,"North Indian, Chinese, Mughlai, Beverages, Rolls, Biryani","₹1,000 for two",Kota,"Indraprastha Industrial Area, Kota",25.1364566004,75.8541657776
+Anand Shekhawati Dhaba,4.0,"North Indian, Chinese",₹200 for two,Kota,"Indraprastha Industrial Area, Kota",25.1285418658,75.8531226356
+Aslii Zaika,4.1,"Mughlai, North Indian, Biryani, Desserts, Chinese, Fast Food",₹700 for two,Kota,"Dhanmandi, Kota",25.1557149594,75.8602711558
+Cake Corner,4.0,"Bakery, Desserts, North Indian",₹400 for two,Kota,"Dadabari, Kota",25.1750730000,75.8546280000
+McDonald's,4.0,"Burger, Fast Food, Beverages, Coffee",₹350 for two,Kota,"Indraprastha Industrial Area, Kota",25.1376040000,75.8551250000
+Cake Factory,4.0,"Sandwich, Fast Food",₹200 for two,Kota,"Chawani, Kota",25.1750730000,75.8546280000
+Domino's Pizza,3.9,"Pizza, Italian, Pasta, Fast Food, Desserts",₹400 for two,Kota,"Talwandi, Kota",25.1492100000,75.8524500000
+Burger King,4.2,"Burger, Fast Food, Beverages",₹350 for two,Kota,"City Mall, Indraprastha Industrial Area, Kota",25.1377606000,75.8550128000
+Morgans The Italian Pizzeria,3.1,"Pizza, Coffee, Beverages, Italian, Burger, Cafe, Fast Food, Continental",₹900 for two,Kota,"Ladpura, Kota",25.2059440000,75.8315530000
+KFC,4.1,"Burger, Fast Food, Biryani, Desserts, Beverages",₹450 for two,Madurai,"SS Colony, Madurai",9.9170652944,78.0943095312
+Domino's Pizza,4.3,"Pizza, Italian, Pasta, Fast Food, Desserts",₹500 for two,Madurai,"SS Colony, Madurai",9.9199719566,78.0932309479
+Dindigul Thalappakatti,4.1,"Biryani, BBQ, South Indian, Chinese, North Indian, Sichuan",₹500 for two,Madurai,"KK Nagar, Madurai",9.9364259325,78.1435723230
+Bistro 1427,4.1,"North Indian, Italian, Shake",₹700 for two,Madurai,"Kamarajar Salai, Madurai",9.9132906573,78.1446716934
+The Sandwich World,3.4,"Sandwich, Fast Food, Momos, Chinese, Wraps, Shake, Beverages",₹400 for two,Madurai,"SS Colony, Madurai",9.9281553000,78.0975711000
+Kumar Mess,4.4,"North Indian, South Indian, Mughlai, Biryani",₹500 for two,Madurai,"KK Nagar, Madurai",9.9325630114,78.1343626231
+Zaitoon,4.9,"Arabian, South Indian, North Indian, Lebanese, Kebab, Chinese, Desserts, Beverages",₹500 for two,Madurai,"Sathamangalam, Madurai",9.9225770649,78.1487583742
+Shawarmaa Hunt,3.6,"Lebanese, South Indian, Beverages",₹300 for two,Madurai,"KK Nagar, Madurai",9.9493360207,78.1468027085
+Smoke Hub Barbeque,4.1,"Chinese, Kebab, South Indian, Seafood, North Indian, Mughlai, Fast Food, Salad","₹1,500 for two",Madurai,"SS Colony, Madurai",9.9287644444,78.0954092368
+The Drowning Street,4.3,"North Indian, Chinese, Continental, Fast Food, Desserts, Beverages","₹1,700 for two",Lucknow,"Gomti Nagar, Lucknow",26.8656910123,81.0126075894
+The Chocolate Room,4.1,"Bakery, Cafe, Coffee, Salad, Italian, Fast Food, Chinese, Mexican",₹900 for two,Lucknow,"Hazratganj, Lucknow",26.8519796000,80.9415267000
+Masaki Cafe Couture,4.3,"Bakery, Italian, Mexican, Fast Food, Asian, Desserts, Juices, Beverages","₹1,200 for two",Lucknow,"Hazratganj, Lucknow",26.8538070000,80.9366530000
+Tickled Pink,4.5,"North Indian, Continental, Thai, Pizza, Turkish, Desserts, Beverages, Coffee","₹2,000 for two",Lucknow,"Gomti Nagar, Lucknow",26.8661607000,81.0075487000
+Black Brew House,4.2,"North Indian, Continental, Italian, Asian, Fast Food, Beverages, Desserts","₹1,400 for two",Lucknow,"Summit Building, Gomti Nagar, Lucknow",26.8649104692,81.0119774681
+Boombox Bar Xchange,4.3,"North Indian, Chinese, Continental, Asian, Biryani, Italian, Desserts, Beverages","₹2,000 for two",Lucknow,"Summit Building, Gomti Nagar, Lucknow",26.8647360000,81.0119540000
+Molecule Air Bar,4.4,"North Indian, Continental, Asian, Finger Food, Desserts, Beverages","₹1,800 for two",Lucknow,"Riverside Mall, Gomti Nagar, Lucknow",26.8528255570,80.9729165956
+MERAKI the Bistro,New,"North Indian, Chinese, Italian, Pizza, Continental, Biryani, Desserts, Bar Food","₹1,600 for two",Lucknow,"Gomti Nagar, Lucknow",26.7828135000,80.9906172000
+Bigg Daddy,4.3,"North Indian, Mughlai, Continental, Chinese, Italian, Kebab, Biryani, Fast Food","₹2,000 for two",Lucknow,"Cyber Heights, Gomti Nagar, Lucknow",26.8676938000,81.0100050000
+Barbeque Nation,4.3,North Indian,"₹1,450 for two",Manipal,"Vidyaratna Nagar, Manipal",13.3492806649,74.7826728970
+Vito's Pizzeria & Cafe,3.7,"Pizza, Italian, Desserts",₹500 for two,Manipal,"Tiger Circle, Manipal",13.3524423717,74.7886324202
+Planet Cafe,3.7,"North Indian, Street Food, Burger, Cafe, Biryani, Shake, Sichuan",₹500 for two,Manipal,"Shivalli, Manipal",13.3592417080,74.7845176498
+Domino's Pizza,4.1,"Pizza, Italian, Pasta, Fast Food, Desserts",₹400 for two,Manipal,"Vidyaratna Nagar, Manipal",13.3470000000,74.7880000000
+Hotel Chavadi,3.9,"South Indian, North Indian, Chinese, Fast Food, Biryani, Ice Cream, Desserts, Beverages",₹800 for two,Udupi,"Ambalpadi, Udupi",13.3360715000,74.7362338000
+Hotel Pancharatna Paradise,3.9,"North Indian, Chinese, Mangalorean, South Indian",₹500 for two,Udupi,"Kinnimulki, Udupi",13.3345424000,74.7493575000
+Coastal Kitchen Family Restaurant,3.7,"South Indian, Chinese, Shawarma, North Indian, Street Food, Fast Food, Ice Cream, Shake",₹600 for two,Udupi,"Maruthi Veethika, Udupi",13.3433241037,74.7479272787
+Machali Restaurant,3.8,"South Indian, Mangalorean, Biryani",₹150 for two,Udupi,"Brahmagiri, Udupi",13.3364587217,74.7400108766
+WarmOven Cake & Desserts,3.4,"Bakery, Desserts, Ice Cream, Shake, Beverages",₹300 for two,Udupi,"Kunjibettu, Udupi",13.3418833000,74.7597346000
+The Lazy Dog,4.4,Cafe,₹800 for two,Manali,"Old Manali, Manali",32.2530812867,77.1768357977
+Cafe Indic Vibes,3.4,"North Indian, Chinese, Pizza, Fast Food",₹900 for two,Manali,"Old Manali, Manali",32.2525931000,77.1792120000
+The Johnson's Cafe,4.5,"Cafe, Continental","₹1,500 for two",Manali,"Old Manali, Manali",32.2474065688,77.1876286715
+Johnny's Pizza,3.9,Italian,₹400 for two,Manali,"Old Manali, Manali",32.2456350000,77.1898080000
+Cafe 1947,4.2,Cafe,"₹1,500 for two",Manali,"Tibetan Colony, Manali",32.2838090000,77.1803880000
+Cafe 1986,3.9,"Fast Food, Chinese, Italian, North Indian, Desserts, Bakery, Beverages, Coffee",₹700 for two,Manali,"Tibetan Colony, Manali",32.2444318000,77.1895588000
+Shan E Manali Restaurant,3.5,"Chinese, North Indian, Fast Food, Desserts, Beverages",₹450 for two,Manali,"Aleo, Manali",32.2249081212,77.1943003578
+Dana Coffee House & German Bakery,4.7,"Italian, Fast Food, Street Food",₹400 for two,Manali,"Tibetan Colony, Manali",32.2436913000,77.1893691300
+Johnson's Bar Restaurant,4.9,North Indian,"₹2,500 for two",Manali,"Old Manali, Manali",32.2470470134,77.1881121397
+Little LLAMA Café,4.9,"Cafe, Pizza, Burger","₹1,000 for two",Mussoorie,"The Mall Road, Mussoorie",30.4552247493,78.0827539042
+Landour Bakehouse,4.8,"Cafe, Bakery, Desserts",₹500 for two,Mussoorie,"Landour, Mussoorie",30.4568987189,78.1020792201
+Kalsang,4.2,"Chinese, Thai, Tibetan, Momos",₹800 for two,Mussoorie,"The Mall Road, Mussoorie",30.4561692509,78.0777351558
+Cafe Ivy,4.5,"Cafe, Coffee, Pizza, Pasta, Sandwich, Burger, Fast Food, Beverages","₹1,000 for two",Mussoorie,"Landour, Mussoorie",30.4610066434,78.0949901417
+Cafe De Tavern,3.8,"Cafe, Bakery",₹700 for two,Mussoorie,"The Mall Road, Mussoorie",30.4551065414,78.0814523622
+Cafe De Landour - CDL,3.9,"Cafe, Italian",₹500 for two,Mussoorie,"Landour, Mussoorie",30.4610219131,78.0950028644
+Café By The Way,4.4,"Cafe, Fast Food, Beverages",₹400 for two,Mussoorie,"The Mall Road, Mussoorie",30.4555256151,78.0784093961
+The Glen,4.8,"North Indian, Italian, Chinese, Bar Food","₹2,000 for two",Mussoorie,"The Mall Road, Mussoorie",30.4553510494,78.0786507949
+Urban Turban,4.9,"North Indian, Mughlai, Momos","₹1,000 for two",Mussoorie,"The Mall Road, Mussoorie",30.4556357300,78.0802926421
+Romeo Lane,4.2,"North Indian, Chinese, Kebab, Sushi, Asian, Oriental, Pasta, Momos","₹2,000 for two",Meerut,"Subhash Nagar, Meerut",29.0078100000,77.7462900000
+Pizza Wings,3.8,"Pizza, Fast Food",₹300 for two,Meerut,"Shastri Nagar, Meerut",28.9682537000,77.7272735000
+S K Chicken Corner,4.0,"North Indian, Kebab, Fast Food",₹350 for two,Meerut,"Mohan Puri, Meerut",28.9776776000,77.7117355000
+Snackers,4.3,"Fast Food, Sandwich, Sichuan",₹200 for two,Meerut,"Sadar Bazaar, Meerut",28.9918776000,77.7102001000
+Nazeer Foods,3.8,"North Indian, Mughlai, Beverages, Chinese, Desserts, Biryani",₹400 for two,Meerut,"Meerut Cantt, Meerut",28.9925160465,77.7056269348
+Pind Balluchi,3.4,"North Indian, Mughlai, Kebab, Desserts",₹800 for two,Meerut,"Shastri Nagar, Meerut",28.9665570000,77.7318176000
+Pizza Hut,3.9,"Pizza, Fast Food, Desserts, Beverages",₹600 for two,Meerut,"Meerut Cantt, Meerut",28.9701369821,77.7225238457
+Burger King,4.0,"Burger, Fast Food, Beverages",₹350 for two,Meerut,"Meerut Cantt, Meerut",28.9479649027,77.6751215011
+Firangi Pizza,-,"Pizza, Fast Food",₹300 for two,Meerut,"Ganga Nagar, Meerut",28.9995858000,77.7628582000
+Zooby's Kitchen,4.5,"North Indian, Mughlai, Chinese, Beverages","₹1,200 for two",Nainital,"Mall Road, Nainital",29.3887084718,79.4603357837
+Café Lakeside,4.4,"Continental, Chinese, Italian, Thai, North Indian, Beverages, Cafe, American",₹800 for two,Nainital,"Mall Road, Nainital",29.3867520609,79.4620158523
+Machan,3.8,"Chinese, North Indian, Thai",₹700 for two,Nainital,"Mall Road, Nainital",29.3910571669,79.4569129497
+Domino's Pizza,3.9,"Pizza, Italian, Pasta, Fast Food, Desserts",₹400 for two,Nainital,"Mall Road, Nainital",29.3855557601,79.4626029208
+Tadka,-,"North Indian, Chinese","₹1,500 for two",Nainital,"Tallital, Nainital",29.3865690000,79.4931590000
+The Sakley's,4.1,"Chinese, Desserts, North Indian","₹1,500 for two",Nainital,"Mall Road, Nainital",29.3916773418,79.4552124292
+Fatu's Cafe & Bistro,-,"Cafe, Italian, American",₹500 for two,Nainital,"Sherwani, Nainital",29.3686672548,79.4142464560
+Anupam Restaurant,4.9,"North Indian, Chinese, Street Food, Desserts",₹700 for two,Nainital,"Mall Road, Nainital",29.3925239052,79.4524215907
+Chandni Chowk - A Multi Cuisine Family Restaurant,4.0,"North Indian, Chinese, South Indian, Italian, Desserts, Beverages",₹600 for two,Nainital,"Tallital, Nainital",29.3828829000,79.4636513000
+Onesta,4.4,"Pizza, Fast Food, Desserts, Beverages",₹600 for two,Mysore,"Gokulam, Mysore",12.3264794046,76.6268076003
+Leon's Burgers & Wings,4.2,"Burger, Wraps, Fast Food, Beverages",₹400 for two,Mysore,"Jayalakhsmipuram, Mysore",12.3259402616,76.6139869764
+La Uppu,4.2,"North Indian, Chinese, Fast Food","₹1,500 for two",Mysore,"Bannimantap, Mysore",12.3299631714,76.6449788958
+Orchid - Fortune JP Palace,4.3,"North Indian, Chinese, Continental, Fast Food, Desserts, Beverages","₹1,200 for two",Mysore,"Fortune JP Palace, Chamrajpura, Mysore",12.3182123152,76.6629765183
+Sapa,3.1,"Bakery, Desserts",₹400 for two,Mysore,"Gokulam, Mysore",12.3290358908,76.6315289847
+The Old House,4.5,"Italian, Pizza, Salad, Fast Food, Shake, Beverages, Bakery, Desserts",₹800 for two,Mysore,"Chamrajpura, Mysore",12.2995762618,76.6428757086
+Bopy's,4.4,"North Indian, Chinese, Desserts, Beverages",₹700 for two,Mysore,"Vijay Nagar, Mysore",12.3241439840,76.6110972315
+Burger King,3.8,"Burger, Fast Food, Desserts, Beverages",₹400 for two,Mysore,"Gayathripuram, Mysore",12.3180640000,76.6656370000
+Gufha Restaurant,4.0,"North Indian, Continental, Chinese, Beverages, Desserts","₹1,000 for two",Mysore,"Pai Hotels, Doora, Mysore",12.3109884000,76.6595797000
+Earl's Secret,4.5,"Continental, North Indian","₹1,200 for two",Ooty,"Marlimund, Ooty",11.4199473730,76.6983699426
+Sugar Dribble,4.9,"Cafe, Continental, Fast Food, Beverages",₹800 for two,Ooty,"Thalayathimund, Ooty",11.4122554862,76.7090414464
+Kailash Parbat,4.2,"North Indian, South Indian, Chinese, Street Food, Sandwich, Fast Food, Sichuan","₹1,000 for two",Ooty,"Elk Hill, Ooty",11.4104033000,76.7072559000
+Le Cafe,3.5,"Cafe, Bakery",₹500 for two,Ooty,"Kandal, Ooty",11.4130057702,76.7022488651
+Angaara,4.9,"Arabian, Chinese, Continental, South Indian, Pasta","₹1,000 for two",Ooty,"Elk Hill, Ooty",11.4077230746,76.7067622393
+The Culinarium,4.3,"Continental, Fast Food, Chinese, Desserts, Beverages","₹1,200 for two",Ooty,"Fern Hill, Ooty",11.3785554000,76.7448346000
+Toda Cafe,4.9,"Continental, Italian, North Indian, South Indian","₹1,200 for two",Ooty,"Hotel Gem Park, Marlimund, Ooty",11.4206023486,76.7041534558
+A2B - Adyar Ananda Bhavan,3.7,"South Indian, North Indian, Chinese, Fast Food, Street Food, Desserts, Beverages",₹600 for two,Ooty,"Elk Hill, Ooty",11.4109198603,76.7074633017
+Sree Lakshmi Illam,3.9,"South Indian, North Indian",₹400 for two,Ooty,"Elk Hill, Ooty",11.4075398000,76.7041191000
+Malaka Spice,3.9,"Asian, Chinese, Thai","₹1,500 for two",Nashik,"Veer Sawarkar Nagar, Nashik",20.0188474988,73.7313289591
+Asian Wok And Grill,4.7,"Asian, Chinese, Seafood, Tibetan, Thai, Korean, Desserts, Sichuan",₹850 for two,Nashik,"Anand Wali Goan, Nashik",20.0122450000,73.7520080000
+Majhali Fine - Dine Seafood Restaurant,3.8,"North Indian, Seafood, Chinese, Biryani, Continental, Desserts","₹1,200 for two",Nashik,"College Road, Nashik",20.0067219972,73.7574863434
+HOG - Courtyard by Marriott,4.5,"North Indian, Modern Indian, Continental, Italian, Asian","₹1,200 for two",Nashik,"Mumbai Naka, Nashik",19.9904587763,73.7896524540
+Bakes N Brews - Courtyard by Marriott,3.9,"North Indian, Cafe, Coffee, Healthy Food, Fast Food, Pasta, Desserts, Beverages",₹800 for two,Nashik,"Mumbai Naka, Nashik",19.9904010729,73.7893883676
+Le Cafetino,4.4,"Cafe, Coffee, Pizza, Fast Food, Desserts, Shake, Beverages",₹500 for two,Nashik,"SSK Solitaire, Satpur, Nashik",19.9911269089,73.7759821862
+GPS 99 Restaurant,4.2,"South Indian, Chinese, North Indian, Street Food, Biryani, Kebab, Sichuan",₹450 for two,Nashik,"Nashik Road, Nashik",19.9687701741,73.7998699397
+Strato - Courtyard By Marriott,4.4,"North Indian, Bar Food, Kebab, Continental, Rolls, Pizza","₹2,000 for two",Nashik,"Mumbai Naka, Nashik",19.9904587763,73.7896524540
+Chai Pyala,3.6,"Tea, Coffee, Shake, Beverages, Pizza, Street Food, Fast Food, Sandwich",₹350 for two,Nashik,"College Road, Nashik",20.0085095413,73.7557653710
+Ghoomar Traditional Thali Restaurant,4.3,"Rajasthani, North Indian, Desserts, Beverages","₹1,000 for two",Patna,"Khajpura, Patna",25.6049839027,85.0852725420
+Biryani By Bihari's,4.2,"Biryani, North Indian, Mughlai",₹500 for two,Patna,"Kankarbagh, Patna",25.5876000000,85.1585000000
+Afraa,4.5,"Bengali, Continental, North Indian, Chinese, Asian, Biryani, Pizza, Desserts","₹1,500 for two",Patna,"Lodipur, Patna",25.6178215836,85.1353358577
+Oyk Yumms,4.0,"North Indian, Mughlai, Chinese, Biryani, Rolls, Momos, Street Food, Sichuan",₹700 for two,Patna,"Khajpura, Patna",25.6021200000,85.0743300000
+Cafe Hideout,3.4,"Chinese, Continental, Salad, Pizza, Sandwich, Fast Food, Coffee, Beverages",₹650 for two,Patna,"Bakerganj, Patna",25.6193223703,85.1597374802
+Burger King,3.5,"Burger, Fast Food, Desserts, Beverages",₹400 for two,Patna,"Lodipur, Patna",25.6104998000,85.1400296000
+Samarat - Hotel Chanakya,4.1,"North Indian, Chinese, Continental, Seafood, Desserts, Sichuan","₹1,600 for two",Patna,"Hotel Chanakya, Sri Krishnapuri, Patna",25.6004590971,85.1254153624
+Saucy Affair,3.5,"North Indian, Pasta, Pizza, Biryani, Chinese",₹400 for two,Patna,"Kankarbagh, Patna",25.6036531000,85.1540529000
+Aasman,4.9,"North Indian, Continental, Chinese, Fast Food, Desserts, Beverages, Sichuan, Seafood","₹3,500 for two",Patna,"Fraser Road Area, Patna",25.6088493415,85.1359869540
+La Pino'z Pizza,3.6,"Pizza, Pasta, Italian, Fast Food",₹250 for two,Pushkar,"Choti Basti, Pushkar",26.4880310000,74.5580220000
+Sand Feast Cafe,-,"Fast Food, Chinese, North Indian, Pizza, Pasta, Street Food",₹300 for two,Pushkar,"Badi Basti, Pushkar",26.4867544277,74.5515047014
+Baba Cafe,-,"Fast Food, Tea, Beverages",₹150 for two,Pushkar,"Choti Basti, Pushkar",26.4868582570,74.5614251867
+Little Italy Pizzeria Restaurant,3.5,"Pizza, Pasta, Salad, Israeli, Ice Cream, Beverages",₹400 for two,Pushkar,"Choti Basti, Pushkar",26.4862214761,74.5626828074
+Funky Monkey Cafe & Garden Restaurant,4.2,"Cafe, Coffee, Italian, Sandwich, Street Food, Chinese, Desserts, Beverages",₹800 for two,Pushkar,"Choti Basti, Pushkar",26.4862766919,74.5626754314
+Hotel Sunset Cafe & Restaurant,3.4,"Juices, North Indian, Fast Food, Chinese, South Indian, Italian, Beverages",₹600 for two,Pushkar,"Choti Basti, Pushkar",26.4873110835,74.5563289896
+Flaming Dragons,4.5,"Asian, Chinese, Thai, Japanese, Desserts, Beverages, Finger Food","₹1,200 for two",Puducherry,"White Town, Puducherry",11.9274317288,79.8320963234
+Coromandel Cafe,4.3,"Cafe, Continental, Italian, Tea, Beverages","₹1,400 for two",Puducherry,"White Town, Puducherry",11.9312375939,79.8343302682
+Villa Shanti,4.2,"Continental, North Indian, Italian, French, Finger Food, Beverages","₹1,500 for two",Puducherry,"Villa Shanti, White Town, Puducherry",11.9305392108,79.8334769905
+Hotel Sri Kamatchi,4.4,"South Indian, Biryani, Seafood, Chinese","₹1,000 for two",Puducherry,"Villianur, Puducherry",11.9314898511,79.8046710715
+ZOUK Club & Kitchen,3.9,"Continental, Italian, BBQ, Chinese, Pizza, Fast Food, North Indian, Beverages","₹1,200 for two",Puducherry,"MG Road, Puducherry",11.9360168716,79.8311020352
+Le Dupleix,4.2,"French, Continental, North Indian, Desserts, Beverages","₹1,500 for two",Puducherry,"White Town, Puducherry",11.9305421631,79.8334783316
+Le Petit Four,4.0,"Bakery, Sandwich",₹400 for two,Puducherry,"White Town, Puducherry",11.9286720360,79.8324989900
+BurgerMan,3.6,Burger,₹600 for two,Puducherry,"White Town, Puducherry",11.9362613000,79.8315032000
+Bay of Buddha - The Promenade,4.9,"Asian, Thai, Chinese, Korean, Indonesian, Momos, Desserts","₹1,500 for two",Puducherry,"The Promenade, White Town, Puducherry",11.9334803460,79.8354980350
+Oona The One,4.5,"North Indian, Chinese, Desserts, Beverages","₹1,000 for two",Ranchi,"Kadru, Ranchi",23.3529142030,85.3155766055
+Jashn The Restaurant,4.4,"North Indian, Chinese, Biryani, Mughlai, Sichuan",₹500 for two,Ranchi,"Lalpur, Ranchi",23.3679886755,85.3365072235
+Caramel The Bistro - Radisson Blu,3.9,"Bakery, Desserts, Sandwich, Pizza, Fast Food, Beverages",₹600 for two,Ranchi,"Radisson Blu, Hindpiri, Ranchi",23.3510396236,85.3243883327
+AB's - Absolute Barbecues,4.5,"Biryani, BBQ, Kebab, North Indian, Desserts","₹1,700 for two",Ranchi,"Hindpiri, Ranchi",23.3534180000,85.3235830000
+Mocha Café & Bar,4.9,"Continental, Lebanese, Desserts, North Indian, European, Mexican",₹800 for two,Ranchi,"Lalpur, Ranchi",23.3705861000,85.3395404000
+Kaveri Restaurant,4.5,"South Indian, North Indian, Pizza, Street Food, Fast Food, Chinese, Desserts, Beverages",₹500 for two,Ranchi,"Hindpiri, Ranchi",23.3576580942,85.3246367723
+Barbeque Nation,4.7,"North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts","₹1,600 for two",Ranchi,"Lalpur, Ranchi",23.3693782749,85.3396799415
+Backyard,4.6,"Chinese, North Indian, Fast Food",₹700 for two,Ranchi,"Kanke, Ranchi",23.3995749951,85.3149989247
+Lord Of The Drinks,3.9,"Italian, North Indian, Chinese, Fast Food, Pizza, Pasta","₹1,200 for two",Ranchi,"Upper Bazar, Ranchi",23.3786225000,85.3147750000
+Pizza Hut,4.2,"Pizza, Fast Food, Burger, Sandwich, Rolls, Desserts, Beverages",₹400 for two,Raipur,"Samta Colony, Raipur",21.2444548938,81.6079292446
+KFC,3.2,"Burger, Fast Food, Biryani, Desserts, Beverages",₹400 for two,Raipur,"Samta Colony, Raipur",21.2442917730,81.6085079312
+Urban Turban,3.8,"North Indian, Chinese, Sandwich, Pizza, Italian, Fast Food, Street Food, Shake",₹450 for two,Raipur,"Civil Lines, Raipur",21.2341147000,81.6545257000
+Madrasi's Grill,4.0,"Biryani, North Indian, Chinese, Sichuan",₹400 for two,Raipur,"Civil Lines, Raipur",21.2412732535,81.6601929949
+Ashoka Biryani,2.6,"North Indian, Chinese, Mughlai, Fast Food, Biryani, Desserts, Beverages",₹800 for two,Raipur,"Magneto Mall, Shankar Nagar, Raipur",21.2372306000,81.6889034000
+Barbeque Nation,4.7,"North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts","₹1,800 for two",Raipur,"Purena, Raipur",21.2406402577,81.6841800883
+Domino's Pizza,4.1,"Pizza, Italian, Pasta, Fast Food, Desserts",₹400 for two,Raipur,"City Centre Mall, Devendra Nagar, Raipur",21.2539027789,81.6473657638
+Cafe Lite 2.0,4.3,"Chinese, North Indian, Biryani, Continental, South Indian, Pizza, Burmese, Fast Food",₹400 for two,Raipur,"Moudhapara, Raipur",21.2565400000,81.6298100000
+S Balbir Dhaba,2.7,"North Indian, Fast Food, Pizza, Sandwich, Shake, Beverages",₹500 for two,Raipur,"Purena, Raipur",21.2369399007,81.6920684651
+Khambir,3.5,"North Indian, Chinese, Oriental, Continental, Biryani","₹2,000 for two",Shimla,"Chakkar, Shimla",31.0924869000,77.1367179000
+Cafe Simla Times,4.2,"Cafe, Continental, Pizza, Fast Food, Beverages","₹1,500 for two",Shimla,"Longwood, Shimla",31.1007775927,77.1762594581
+Shimla Brewing Company,4.9,"Continental, North Indian, Pizza, Burger","₹1,500 for two",Shimla,"Longwood, Shimla",31.1007820000,77.1763082000
+SkyBar,4.9,"Bar Food, Continental, North Indian, Fast Food, Pizza, Desserts, Beverages","₹1,600 for two",Shimla,"Longwood, Shimla",31.1007448652,77.1764254197
+Eighteen 71,4.9,"Continental, North Indian, Chinese, Desserts, Beverages, BBQ, Seafood, Mughlai","₹1,500 for two",Shimla,"Longwood, Shimla",31.1009713739,77.1765679121
+Cafe Sol,4.3,"Italian, Mexican, Continental, Beverages","₹1,500 for two",Shimla,"Hotel Combermere, The Mall, Shimla",31.1022178800,77.1776907519
+One Bite,3.9,"Pizza, Wraps, Pasta, Sandwich, Burger, Waffle",₹300 for two,Shimla,"Sanjauli, Shimla",31.1027750991,77.1976423636
+The Brew Estate,4.3,"North Indian, Continental","₹1,200 for two",Shimla,"Longwood, Shimla",31.1039310000,77.1766125000
+Wake & Bake,3.7,"Cafe, Continental, Middle Eastern, Desserts, Beverages",₹800 for two,Shimla,"Longwood, Shimla",31.1046970637,77.1729305014
+The Sitting Elephant By Hotel Ellbee Ganga View,4.4,North Indian,"₹1,300 for two",Rishikesh,"Manvendera Nagar, Rishikesh",30.1020590000,78.2923330000
+Beatles Cafe,4.2,"Cafe, Italian, Continental, North Indian, Asian",₹600 for two,Rishikesh,"Tapovan, Rishikesh",30.1270520312,78.3262113109
+Jal & Jalebi,4.9,"North Indian, Chinese, Continental, Italian","₹1,500 for two",Rishikesh,"Manvendera Nagar, Rishikesh",30.0923738647,78.2884753123
+Little Buddha Cafe,3.5,"Continental, Cafe",₹700 for two,Rishikesh,"Tapovan, Rishikesh",30.1237815240,78.3290329948
+Om Freedom Cafe,3.4,"Cafe, Continental, Israeli, North Indian, Fast Food, Beverages, Desserts",₹700 for two,Rishikesh,"Tapovan, Rishikesh",30.1241103776,78.3294467255
+Bistro Nirvana,4.3,"Cafe, North Indian, Italian, Continental, Israeli, Chinese, Mexican",₹500 for two,Rishikesh,"Tapovan, Rishikesh",30.1280384996,78.3189381123
+Tasty Spoon,2.8,Chinese,₹200 for two,Rishikesh,"Tapovan, Rishikesh",30.1306254541,78.3239394799
+VARR - Temple Food Of India,4.3,North Indian,"₹2,000 for two",Rishikesh,"Manvendera Nagar, Rishikesh",30.0896865114,78.2884575356
+Divine Cafe & Bakery,4.8,"Cafe, Bakery",₹500 for two,Rishikesh,"Tapovan, Rishikesh",30.1274061025,78.3247662708
+East Asia,4.2,"Asian, Pizza, Pasta, Fast Food, Desserts, Beverages, Shake, Coffee",₹900 for two,Surat,"Vesu, Surat",21.1437937783,72.7972913096
+Zest House,3.9,"North Indian, Continental, Fast Food, Beverages","₹1,500 for two",Surat,"Athwa, Surat",21.1737209799,72.7944143726
+Cafe Mewaco,4.0,"Cafe, Coffee, Fast Food, Shake, Beverages",₹600 for two,Surat,"Piplod, Surat",21.1576659409,72.7685922717
+The Bungalow Cafe,3.9,"Cafe, Beverages, Pizza, Fast Food",₹500 for two,Surat,"Adajan Gam, Surat",21.1892400000,72.7899880000
+KFC,4.0,"Burger, Fast Food, Biryani",₹400 for two,Surat,"Adajan Gam, Surat",21.1933902168,72.7867757902
+SBC - Surat Marriott Hotel,3.9,"Continental, Sandwich, Pizza, Burger, Beverages","₹1,200 for two",Surat,"Athwa, Surat",21.1773790000,72.7899140000
+Huber & Holly,3.7,"Ice Cream, Desserts, Pizza, Sandwich, Pasta, Beverages",₹600 for two,Surat,"Piplod, Surat",21.1536975194,72.7678920329
+Taste Of Bhagwati,3.6,"North Indian, Chinese, Oriental, Italian, Fast Food, Desserts, Shake, Beverages","₹1,000 for two",Surat,"City Light, Surat",21.1689829028,72.7952817455
+Table 101 - Surat Marriott Hotel,4.0,Continental,"₹3,000 for two",Surat,"City Light, Surat",21.1765773000,72.7892450000
+Aminia,4.1,"North Indian, Mughlai, Biryani, Kebab, Desserts, Beverages",₹400 for two,Siliguri,"Janta Nagar, Siliguri",26.7221348221,88.4272354469
+Pizza Hut,3.5,"Pizza, Fast Food",₹600 for two,Siliguri,"Khalpara, Siliguri",26.7041100000,88.4229800000
+Biggies Burger,3.9,"Burger, Fast Food, Beverages",₹300 for two,Siliguri,"Bankim Nagar, Siliguri",26.7394808000,88.4356824000
+Burger King,4.0,"Burger, Fast Food, Desserts",₹300 for two,Siliguri,"Janta Nagar, Siliguri",26.7288777406,88.4307199717
+Penthouse Bar Kitchen & Cocktails,4.0,"North Indian, Mughlai, Chinese, Seafood, Biryani",₹800 for two,Siliguri,"Pradhan Nagar, Siliguri",26.7342910713,88.4135008603
+Siliguri Kitchen - Courtyard By Marriott Hotel,3.9,"Chinese, North Indian, Mughlai, Asian, Pizza, Fast Food, Continental, South Indian",₹800 for two,Siliguri,"Pradhan Nagar, Siliguri",26.7301839346,88.4122429043
+Haji Biryani,3.8,"Biryani, North Indian",₹300 for two,Siliguri,"Pradhan Nagar, Siliguri",26.7363526642,88.4169860673
+Zaika Biriyani House,4.3,"Rolls, North Indian, Bengali",₹400 for two,Siliguri,"Khalpara, Siliguri",26.7153375968,88.4202442691
+Tamarynd Lounge & Restaurant,4.3,"North Indian, Finger Food, Continental, Italian, Seafood, Chinese, Mughlai, Asian","₹1,200 for two",Siliguri,"Bankim Nagar, Siliguri",26.7486810495,88.4378700703
+CIBO,-,"North Indian, Asian, Chinese, Fast Food, Continental, Biryani, Pasta, Pizza","₹1,500 for two",Trichy,"Thillai Nagar, Trichy",10.8239971000,78.6863139000
+Domino's Pizza,4.0,"Pizza, Italian, Pasta, Fast Food, Desserts",₹400 for two,Trichy,"Thillai Nagar, Trichy",10.8270228571,78.6835456824
+Karuppaiya Hotel,3.8,"South Indian, Chinese",₹300 for two,Trichy,"Main Guard Gate, Trichy",10.8159061572,78.6972449675
+Cafe Coffee Day,4.9,"Cafe, Coffee, Tea, Fast Food, Desserts, Beverages, Sandwich, Shake",₹750 for two,Trichy,"Thillai Nagar, Trichy",10.8200444140,78.6834627762
+Takki Tikka,-,"Burger, Momos, Fast Food, Shake, Beverages, Desserts",₹400 for two,Trichy,"Woraiyur, Trichy",10.8345580000,78.6884397000
+Pizza Hut,4.1,"Pizza, Fast Food, Desserts, Beverages",₹600 for two,Trichy,"Thillai Nagar, Trichy",10.8279979356,78.6856739223
+Hotel Vignesh,-,"South Indian, North Indian",₹300 for two,Trichy,"Cantonment, Trichy",10.7954903067,78.6818326637
+Barbeque Nation,4.4,North Indian,"₹1,650 for two",Trichy,"Mangalam Towers, Sangiliyandapuram, Trichy",10.8069274921,78.6814263090
+AB's - Absolute Barbecues,4.3,"BBQ, North Indian, Desserts","₹1,800 for two",Trichy,"Woraiyur, Trichy",10.8279021645,78.6856325256
+Cafe 1 AM,-,"Arabian, Shawarma, Chinese, North Indian, Juices, Beverages",₹450 for two,Thrissur,"Puzhakkal, Thrissur",10.5387040000,76.1952050000
+Starbucks Coffee,-,"Cafe, Coffee, Desserts, Beverages",₹300 for two,Thrissur,"Kizhakkumpattukara, Thrissur",10.5210710000,76.2311261000
+Fillmore,-,"North Indian, BBQ, Rolls, Kebab",₹500 for two,Thrissur,"Kizhakkumpattukara, Thrissur",10.5238297995,76.2234292479
+KFC,4.2,"Fast Food, Burger, Biryani, Desserts, Beverages",₹450 for two,Thrissur,"Shobha City Mall, Puzhakkal, Thrissur",10.5500577890,76.1833972111
+Nahdi Kuzhimandhi,4.2,"Mandi, Arabian",₹400 for two,Thrissur,"Poothole, Thrissur",10.5161504258,76.2094699591
+Paavo's Pizza & Grill,3.4,"Pizza, Fast Food, Shake, Beverages",₹500 for two,Thrissur,"Ayyanthole, Thrissur",10.5212621832,76.2017361447
+Roastown,4.5,"Continental, Middle Eastern, Moroccan, Oriental, Modern Indian, European, Italian, Greek",₹700 for two,Thrissur,"Kuriachira, Thrissur",10.5126492500,76.2273636460
+Hotel Sapphire,4.5,"Beverages, Biryani, Kerala",₹350 for two,Thrissur,"Poothole, Thrissur",10.5188953647,76.2108214572
+Soofi Mandi,3.7,"Mandi, Arabian, Charcoal Chicken",₹500 for two,Thrissur,"Ollur, Thrissur",10.4765416152,76.2405454374
+Wok On Fire,4.2,"Chinese, Thai, Asian, Momos, Beverages","₹1,000 for two",Vadodara,"Fatehgunj, Vadodara",22.3229012623,73.1871635467
+Koa Cafe,3.8,"Cafe, Coffee, Tea, Shake, Beverages, Fast Food, Desserts",₹800 for two,Vadodara,"Bhayli, Vadodara",22.3123638333,73.1239696494
+Starbucks Coffee,4.3,"Cafe, Coffee, Fast Food",₹600 for two,Vadodara,"Alkapuri, Vadodara",22.3181609000,73.1697380000
+Pizzawala's,3.3,"Pizza, Italian",₹800 for two,Vadodara,"Alkapuri, Vadodara",22.3162969820,73.1684156990
+Pizza Hut,3.5,"Pizza, Fast Food, Desserts, Beverages","₹1,000 for two",Vadodara,"Madhavpura, Vadodara",22.3009024606,73.2296152040
+Pind Di Gali - Taste Of Punjab,4.5,"North Indian, Biryani, Desserts, Beverages","₹1,000 for two",Vadodara,"Bhayli, Vadodara",22.2907661000,73.1347955000
+Old School Eatery,4.6,"North Indian, Biryani, Pizza, Sandwich, Chinese, Desserts, Beverages","₹1,200 for two",Vadodara,"Alkapuri, Vadodara",22.3162093086,73.1709529459
+WelcomCafe Cambay - Welcomhotel By ITC Hotels,3.9,"Continental, Chinese, North Indian, Desserts","₹3,500 for two",Vadodara,"Welcomhotel By ITC Hotels, Alkapuri, Vadodara",22.3100508521,73.1678087264
+Domino's Pizza,3.9,"Pizza, Fast Food",₹550 for two,Vadodara,"Manjalpur, Vadodara",22.2709390152,73.1943099573
+Vibe Hub,-,"Juices, Shake, Shawarma, Fast Food, Beverages",₹250 for two,Trivandrum,"Kannanthura, Trivandrum",8.4864240000,76.9282460000
+Domino's Pizza,3.8,"Pizza, Italian, Pasta, Fast Food, Desserts",₹400 for two,Trivandrum,"Kesavadasapuram, Trivandrum",8.5292941444,76.9353877008
+Paragon Restaurant,4.5,"Biryani, Kerala, Seafood, South Indian, Chinese, Arabian, North Indian, Desserts","₹1,200 for two",Trivandrum,"Kesavadasapuram, Trivandrum",8.5294579389,76.9342712313
+Villa Maya Heritage Restaurant,4.9,"North Indian, Seafood, South Indian, Desserts","₹1,000 for two",Trivandrum,"Kannanthura, Trivandrum",8.4816126870,76.9369276240
+Chicking,3.8,"Fast Food, Burger, Pizza, Desserts, Beverages",₹500 for two,Trivandrum,"Mall Of Travancore, Inchakki, Kannanthura, Trivandrum",8.4873528010,76.9254702330
+Kumar Cafe,3.3,"Biryani, Kerala, South Indian, Chinese, Seafood, North Indian, Beverages",₹400 for two,Trivandrum,"Karamana, Trivandrum",8.4813964000,76.9574527000
+Bro. Co. Restaurant,-,"Kerala, North Indian",₹300 for two,Trivandrum,"Thumba, Trivandrum",8.5365724100,76.8806805587
+Kebab Dukkan,3.7,"Kebab, Rolls",₹400 for two,Trivandrum,"Ambalamukku, Trivandrum",8.5250515000,76.9524167000
+Pizza Hut,4.0,"Pizza, Fast Food, Desserts, Beverages",₹600 for two,Trivandrum,"Ulloor, Trivandrum",8.5285905564,76.9337803870
+Haldiram's Sweets And Namkeen,3.7,"Mithai, Desserts, Bakery",₹500 for two,Vijayawada,"Gandhi Nagar, Vijayawada",16.5188432750,80.6202663792
+Haldiram's,3.7,Mithai,₹200 for two,Vijayawada,"Gandhi Nagar, Vijayawada",16.5188432750,80.6202663792
+Domino's Pizza,4.1,"Pizza, Italian, Pasta, Fast Food, Desserts",₹400 for two,Vijayawada,"Labbipet, Vijayawada",16.4968652987,80.6640246883
+Hoskote 4 AM Biriyani,-,Biryani,₹500 for two,Vijayawada,"Governorpet, Vijayawada",16.5144812000,80.6325905000
+Pizza Hut,3.6,"Pizza, Fast Food, Desserts, Beverages",₹600 for two,Vijayawada,"Poranki, Vijayawada",16.4826779511,80.6891776288
+AB's - Absolute Barbecues,4.5,"Biryani, BBQ, Kebab, North Indian, Desserts","₹1,850 for two",Vijayawada,"Gurunanak Colony, Vijayawada",16.4973653857,80.6559596314
+The Kay Hotel,3.8,"North Indian, South Indian, Chinese, Biryani, Mughlai, Continental, Desserts, Shake",₹700 for two,Vijayawada,"The Kay Hotel, Gunadala, Vijayawada",16.5241957784,80.6762183458
+Barbeque Nation,4.6,North Indian,"₹1,750 for two",Vijayawada,"Labbipet, Vijayawada",16.5003484444,80.6458269060
+Bismillah Biryani And Fast Food,4.1,"Biryani, South Indian, Chinese, North Indian, Sichuan",₹350 for two,Vijayawada,"Krishna Lanka, Vijayawada",16.5081866590,80.6230036542
+The Vibe,3.9,"North Indian, Chinese, Fast Food, Oriental","₹1,000 for two",Varanasi,"Shastri Nagar, Varanasi",25.3168140000,82.9911591000
+Burger King,4.0,"Burger, American, Fast Food, Beverages",₹500 for two,Varanasi,"Sigra, Varanasi",25.3162722440,82.9898133874
+VNS Live Studio,3.7,"Continental, North Indian, Chinese, Beverages, Sichuan",₹700 for two,Varanasi,"Sigra, Varanasi",25.3186107604,82.9914927855
+Pizza Hut,3.8,"North Indian, Fast Food, Pizza",₹600 for two,Varanasi,"Chetganj, Varanasi",25.3193359000,82.9912264000
+Roma's Café Diner,4.9,"Cafe, Continental, North Indian, Italian, Asian, Fast Food, Beverages, Sichuan",₹800 for two,Varanasi,"Lanka, Varanasi",25.2811435000,83.0035045000
+Pizzeria Vaatika Cafe,4.1,"Pizza, Fast Food, Chinese, Pasta, North Indian, Shake, Juices, Beverages",₹500 for two,Varanasi,"Assi Ghat, Varanasi",25.2888940613,83.0060850084
+Champaran Desi Matka Meat House,-,"Mughlai, Bihari, Lucknowi, North Indian",₹500 for two,Varanasi,"Nadesar, Varanasi",25.3394180000,82.9819640000
+Hotel Kalika,3.8,"North Indian, Chinese, Street Food, Biryani",₹400 for two,Varanasi,"Nadesar, Varanasi",25.3352721401,82.9855332524
+Barbeque Nation,4.9,"North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts","₹1,700 for two",Varanasi,"JHV Mall, Nadesar, Varanasi",25.3356472895,82.9780381545

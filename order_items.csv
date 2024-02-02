@@ -1,0 +1,732 @@
+Restaurant_Name,Order_Items,Prices,Votes
+The Nawaabs,Veg Biryani,269.0,37
+The Nawaabs,Egg Biryani,289.0,11
+The Nawaabs,Paneer Tikka Biryani,309.0,58
+The Nawaabs,Chicken Dum Phukt Biryani,329.0,140
+The Nawaabs,Chicken Tikka Biryani,349.0,66
+The Nawaabs,Awadhi Mutton Biryani,389.0,55
+The Nawaabs,Mutton Boti Biryani,409.0,34
+The Nawaabs,Cheesy Cream Tangdi,269.0,5
+The Nawaabs,Kalmi Tangdi,289.0,11
+The Nawaabs,Lahori Tangdi,249.0,13
+The Nawaabs,Signature Charcoal Tangdi,299.0,12
+The Nawaabs,Mushroom Galouti,389.0,8
+The Nawaabs,Veg Seekh Kebab,359.0,13
+The Nawaabs,Malai Soya Chaap,339.0,17
+The Nawaabs,Lahori Soya Chaap,329.0,16
+The Nawaabs,Achari Soya Chaap,339.0,36
+The Nawaabs,Dahi Ke Kebab,369.0,18
+The Nawaabs,Achari Paneer Tikka,369.0,6
+The Nawaabs,Classic Paneer Tikka,359.0,95
+The Nawaabs,Malai Paneer Tikka,369.0,36
+The Nawaabs,Chicken Shaami Kebab,399.0,13
+The Nawaabs,Classic Chicken Tikka,389.0,13
+The Nawaabs,Achari Chicken Tikka,399.0,10
+The Nawaabs,Murgh Malai Tikka,409.0,8
+The Nawaabs,Mutton Tundey Kebab,489.0,9
+The Nawaabs,Lucknowi Mutton Seekh,489.0,6
+The Nawaabs,Lucknowi Chicken Seekh,439.0,24
+The Nawaabs,Chicken Tandoori,319.0,34
+The Nawaabs,Afghani Tandoori,339.0,10
+The Nawaabs,Chicken Fry,339.0,10
+The Nawaabs,Fish Fry,369.0,8
+The Nawaabs,Special Schezwan Tandoori [o],389.0,45
+The Nawaabs,Fish Tikka,399.0,30
+The Nawaabs,Lahori Veg Chaap Masala,269.0,7
+The Nawaabs,Nawaabi Paneer,279.0,7
+The Nawaabs,Paneer Pasanda,299.0,12
+The Nawaabs,Paneer Tikka Masala,309.0,11
+The Nawaabs,Veg Jalfrazi,279.0,51
+The Nawaabs,Veg Nargisi Kofta,309.0,79
+The Nawaabs,Awadhi Kali Mirch Murgh,329.0,15
+The Nawaabs,Ghost Awadhi Korma,399.0,18
+The Nawaabs,Murgh Awadhi Korma,339.0,36
+The Nawaabs,Murgh Changezi,339.0,16
+The Nawaabs,Murgh Tikka Masala,319.0,40
+The Nawaabs,Mutton Boti Masala,409.0,8
+The Nawaabs,Nawaabs Special Mutton Curry1,399.0,5
+The Nawaabs,Nawaabs Speciial Nalli Nihari,419.0,8
+The Nawaabs,Nawaabs Special Butter Chicken,449.0,15
+The Nawaabs,Nawaabs Special Butter Chicken -Boneless,489.0,5
+The Nawaabs,Murgh Mussallam,549.0,7
+The Nawaabs,Tawa Anda Masala,359.0,28
+The Nawaabs,Mutton Kheema,469.0,13
+Bistro 57,Bistro Special Chai [Large],80.0,5
+Bistro 57,Chai Latte [Large],140.0,5
+Bistro 57,Hot Chocolate [Large],180.0,17
+Bistro 57,Belgium Hot Chocolate [Large],220.0,6
+Bistro 57,Cheese Pizza,157.0,13
+Bistro 57,Veggie Pizza,180.0,44
+Bistro 57,Exotic Pizza,200.0,32
+Bistro 57,Cheese and Corn Pizza,180.0,8
+Bistro 57,Exotic Paneer Pizza,200.0,12
+Bistro 57,Paneer Makhani Pizza,200.0,22
+Bistro 57,White Sauce Pasta,260.0,6
+Bistro 57,Red Sauce Pasta,260.0,16
+Bistro 57,Mixed Sauce Pasta,280.0,19
+Bistro 57,Makhani Sauce Pasta,280.0,9
+Bistro 57,Veg Burger [Medium],120.0,5
+Bistro 57,Veg Paneer Burger [Medium],157.0,10
+Bistro 57,Taco Burger,157.0,11
+Bistro 57,Paneer Chilli Lava Burger,157.0,15
+Ghoomar Traditional Thali Restaurant,Jain Rajwadi Box By Ghoomar,395.0,27
+Fat Tiger,Crispy Fried Butter Chicken Momos,349.0,6
+Fat Tiger,Crispy Fried Corn N Cheese Momos,309.0,9
+Fat Boys Cafe,Chicken Crunchy,229.0,8
+Fat Boys Cafe,Fish Crunchy,229.0,5
+Fat Boys Cafe,Amritsari Fish,219.0,5
+Fat Boys Cafe,Chilli Paneer Dry,239.0,11
+Fat Boys Cafe,Chilli Paneer Gravy,239.0,5
+Fat Boys Cafe,Chilli Chicken Dry,269.0,8
+Masala Bistro,Dal Bukhara Meal,279.0,9
+The Mud Cafe,Chilli Paneer Wok Box,219.0,16
+The Mud Cafe,Veg Manchurian Wok Box,219.0,9
+The Mud Cafe,Kung Pao Wok Box,219.0,24
+The Mud Cafe,Veggie Hot Garlic Wok Box,219.0,6
+The Mud Cafe,Penne Alfredo White Sauce Pasta [Serves 2],275.0,10
+The Mud Cafe,Veg Penne with Arrabiata Sauce [Serves 2],265.0,9
+The Mud Cafe,Veg Penne with Mixed Sauce [Serves 2],285.0,8
+The Mud Cafe,Mushroom Penne Sauce Pasta [Serves 2],285.0,17
+The Mud Cafe,Sweet Corn Soup,195.0,12
+The Mud Cafe,Manchow Soup,195.0,5
+The Mud Cafe,Hot and Sour Soup,195.0,5
+The Mud Cafe,Lemon Coriander Soup,195.0,5
+The Mud Cafe,Veg Spring Rolls,189.0,8
+The Mud Cafe,Honey Chilli Potato,210.0,51
+The Mud Cafe,Crispy Chilli Potato,200.0,15
+The Mud Cafe,Chilli Cheese Dragon Roll,219.0,10
+The Mud Cafe,Vegetable Manchurian Dry,265.0,7
+The Mud Cafe,Chilli Paneer Dry,285.0,5
+The Mud Cafe,Chilli Garlic Mushroom,285.0,6
+The Mud Cafe,Chilli Garlic Crispy Vegetable,295.0,5
+The Mud Cafe,Wan Chai Crispy Vegetable,295.0,9
+The Mud Cafe,Vegetable Salt and Pepper,285.0,5
+The Mud Cafe,Corn Salt and Pepper,275.0,6
+Made In Punjab,Veg Platter,885.0,23
+Made In Punjab,Pind punjabi veg thali,355.0,65
+Made In Punjab,Special Punjabi Veg Thali,375.0,12
+Made In Punjab,Pind Punjabi Chicken Thali,415.0,7
+Made In Punjab,Special Punjabi Mutton Thali,445.0,5
+Made In Punjab,Non Veg Platter,1095.0,9
+Made In Punjab,Tomato Dhaniya Shorba,225.0,5
+Made In Punjab,Mushroom Shorba,225.0,7
+Made In Punjab,Veg Hot & Sour Soup,225.0,6
+Made In Punjab,Veg Sweet Corn Soup,225.0,6
+Made In Punjab,Chicken Hot & Sour Soup,225.0,6
+Made In Punjab,Chicken Sweet Corn Soup,225.0,5
+Made In Punjab,Green Salad,175.0,12
+Made In Punjab,Kachumber Salad,175.0,11
+Made In Punjab,Dahi ke Kebab [5 Pieces],415.0,5
+Made In Punjab,Hara Bhara Kebab [5 Pieces],415.0,9
+Made In Punjab,Soya Malai Chaap [5 Pieces],415.0,8
+Made In Punjab,Veg Galouti [5 Pieces],445.0,9
+Made In Punjab,Kumbh Pudina Tikka [5 Pieces],445.0,5
+Made In Punjab,Teen Mirchi ka Paneer Tikka [5 Pieces],445.0,22
+Made In Punjab,Chatpate Bhutey,415.0,6
+Made In Punjab,Multani Paneer Tikka,445.0,23
+Made In Punjab,Malai Broccoli,445.0,65
+Made In Punjab,Kashmiri Morels,755.0,12
+Made In Punjab,Chinjabi Paneer,385.0,7
+Made In Punjab,Honey Mirch Potato,365.0,18
+Made In Punjab,Chicken Kalmi Kebab [4 Pieces],655.0,8
+Made In Punjab,Farid Chicken Tikka [5 Pieces],515.0,18
+Made In Punjab,Chicken Tikka [5 Pieces],515.0,14
+Made In Punjab,Burnt Chicken Garlic Tikka [5 Pieces],515.0,9
+Made In Punjab,Murgh Malai Tikka [5 Pieces],515.0,5
+Made In Punjab,Bhuna Murgh,595.0,6
+Made In Punjab,Bhati Da Murgh Pindwala,545.0,7
+Made In Punjab,Chinjabi Chicken,515.0,49
+KFC,Chicken Chizza & Wings Meal,459.05,26
+KFC,Chicken Chizza & Pepsi Combo,376.19,7
+KFC,Duo Chicken Chizza,628.57,8
+KFC,Chicken Chizza & Dessert Meal,468.57,6
+KFC,Chicken Chizza,319.05,10
+KFC,Duo Popcorn Chicken Rice Bowlz,428.57,29
+KFC,Classic Chicken Rice Bowlz,229.52,5
+KFC,Smoky Red Chicken Rice Bowlz,229.52,8
+KFC,Popcorn Chicken Rice Bowlz,229.52,14
+KFC,Veg Rice Bowlz,199.05,5
+KFC,Popcorn Chicken Rice Bowlz & Wings Meal,699.05,5
+KFC,Plain Rice Bowlz,139.05,19
+KFC,Bucket List Meal,599.0,12
+KFC,Chicken Hamper Bucket,799.0,8
+KFC,Jingle Bite Bonanza,499.0,6
+KFC,Rock & Roll Meal,399.0,12
+KFC,Chicken Burger Buddy Meal,528.57,20
+KFC,Zinger Pro Burger & Popcorn Meal,459.05,28
+KFC,Zinger Pro Burger,239.05,5
+KFC,Mixed Chicken Zinger Burger Doubles,368.57,40
+KFC,Chicken Zinger Burger - Classic,199.05,20
+KFC,Zinger Pro Burger & Chicken Meal,399.05,15
+KFC,Veg Zinger Burger,188.57,21
+KFC,Chicken Zinger Burger - Tandoori,208.57,7
+KFC,2 X Chicken Krisper Burgers,248.57,12
+KFC,2 X Veg Krisper Burgers,179.05,22
+KFC,Peri Peri 10 Pc Chicken Strips & 2 Dips,499.05,12
+Kiskey Whiskey,Tandoori Non Veg Platter,795.0,5
+Kiskey Whiskey,Non Veg Mezze Platter,795.0,5
+Kiskey Whiskey,Tandoori Veg Platter,695.0,8
+Kiskey Whiskey,Veg Mezze Platter,695.0,9
+Kiskey Whiskey,Classic Caesar Salad Non Veg,385.0,6
+Kiskey Whiskey,Classic Caesar Salad Veg,345.0,5
+Kiskey Whiskey,Cream Of Chicken,265.0,5
+Kiskey Whiskey,Cream Of Mushroom,265.0,5
+Kiskey Whiskey,Cream Of Tomato,225.0,5
+Kiskey Whiskey,Garden Green Salad,275.0,5
+Kiskey Whiskey,Non Veg Hot & Sour Soup,265.0,7
+Kiskey Whiskey,Hot & Sour Soup,225.0,6
+Kiskey Whiskey,Non Veg Lemon & Coriander Soup,265.0,6
+Dasaprakash,Steamed Idli (02 Pcs),175.0,33
+Dasaprakash,Gunpowder Idli,215.0,10
+Dasaprakash,Masala Idli,215.0,11
+Dasaprakash,Mini Idli (10 pcs),190.0,6
+Dasaprakash,Cocktail Gunpowder Idli (10 pcs),215.0,19
+Dasaprakash,Idli Vada Combo,240.0,6
+Dasaprakash,Medu Vada (4 pcs),210.0,6
+Dasaprakash,Rasam Vada Dipped (2 pcs),220.0,29
+Dasaprakash,Sambar Vada Dipped (2 pcs),220.0,16
+Dasaprakash,Dahi Vada (2 pcs),249.0,5
+Dasaprakash,Poori Bhaji,225.0,18
+Dasaprakash,Ghee Pongal,210.0,15
+Dasaprakash,Uttapam Platter,349.0,5
+Dasaprakash,Idli Platter,349.0,11
+Dasaprakash,South Indian Platter,399.0,86
+Dasaprakash,South Indian Mini Thali,355.0,6
+Dasaprakash,South Indian Papad,55.0,7
+Dasaprakash,Curd Rice,265.0,19
+Dasaprakash,Lemon Rice,275.0,7
+Dasaprakash,Sambar Rice,215.0,8
+Dasaprakash,Rasam Rice,215.0,5
+Dasaprakash,Upma,210.0,5
+Dasaprakash,Upma Vada Combo,240.0,10
+Thaliwala Pure Veg Restaurant,Thaliwala Thali,269.0,63
+Thaliwala Pure Veg Restaurant,Deluxe Thali,379.0,10
+Thaliwala Pure Veg Restaurant,Russian Salad,180.0,9
+Thaliwala Pure Veg Restaurant,Cream of Vegetable Soup,110.0,10
+Thaliwala Pure Veg Restaurant,Cream of Tomato Soup,120.0,7
+Thaliwala Pure Veg Restaurant,Noodles Soup,120.0,18
+Thaliwala Pure Veg Restaurant,Hot N Sour Soup,135.0,8
+Thaliwala Pure Veg Restaurant,Manchow Soup,150.0,5
+Thaliwala Pure Veg Restaurant,French Onion Soup,170.0,16
+Thaliwala Pure Veg Restaurant,Cream of Mushroom Soup,170.0,7
+Xero Degrees,Butter Chicken Cheesy Fries,323.0,6
+Xero Degrees,Cheesy Fries,227.0,19
+Xero Degrees,Chicken & Cheese Fries,311.0,5
+Xero Degrees,Chicken Pizza Fries,323.0,5
+Xero Degrees,Chicken Tandoori Fries,335.0,6
+Xero Degrees,Chilly X Chicken Fries,335.0,6
+Xero Degrees,Chilly X Fries,299.0,6
+Xero Degrees,Classic Fries,203.0,5
+Xero Degrees,Mushroom Fries,251.0,9
+Xero Degrees,Non Veg Popcorn Fries,335.0,5
+Spiced Brew,Crunchy Chicken Momos (5pcs),259.0,8
+Spiced Brew,Crunchy Veg Momos (5pcs),219.0,5
+Spiced Brew,Pan Fried Chicken Momos (6pcs),249.0,11
+Spiced Brew,Pan Fried Veg Momos (6pcs),209.0,8
+Spiced Brew,Steamed Chicken Momos (6pcs),239.0,17
+Spiced Brew,Steamed Veg Momos (6pcs),199.0,11
+Spiced Brew,Egg Akuri Sandwich,209.0,24
+Spiced Brew,Egg N Cheese Sandwich,199.0,24
+Spiced Brew,Bombay Masala Sandwich,219.0,14
+Spiced Brew,Roasted Vegetable Sandwich,239.0,8
+Spiced Brew,Veg Club Sandwich,259.0,11
+Spiced Brew,Veg Mediterranean Sandwich,269.0,10
+Spiced Brew,Peri Peri Paneer Sandwich,299.0,27
+Spiced Brew,Mushroom & Cheese Sandwich,319.0,12
+Spiced Brew,Club Chicken Sandwich,319.0,8
+Spiced Brew,Herb Crusted Chicken Sandwich,309.0,33
+Spiced Brew,Bbq Pulled Chicken Sandwich,329.0,5
+Spiced Brew,Pesto Chicken Sandwich,339.0,8
+Spiced Brew,Bbq Chicken Burger,309.0,6
+Spiced Brew,Chicken Makhani Burger,299.0,13
+Spiced Brew,Paneer Makhani Burger,269.0,42
+Spiced Brew,Bun Omelette,189.0,23
+Spiced Brew,Desi Delight Burger,209.0,18
+Spiced Brew,Garden Veg Burger,239.0,7
+Spiced Brew,Mexican Bean Patty Burger,259.0,8
+Spiced Brew,Crispy Cottage Cheese Burger,259.0,6
+Spiced Brew,Grilled Chicken N Shroom Burger,299.0,5
+Spiced Brew,Crispy Chicken Burger,319.0,77
+Spiced Brew,Falafel Pita Pockets,259.0,12
+Spiced Brew,Paneer Pita Pockets,279.0,26
+Spiced Brew,Chicken Pita Pockets,299.0,14
+Spiced Brew,Indian Style Chicken Pita Pockets,299.0,22
+Spiced Brew,Assorted Veg Toastie,229.0,5
+Spiced Brew,Chicken Toastie,249.0,9
+Spiced Brew,Mushroom N Cheese Toastie,229.0,8
+Spiced Brew,Chilli Cheese Toast,189.0,6
+Spiced Brew,Assorted Veggie Roll,199.0,6
+Spiced Brew,Bombay Aloo Masala Roll,179.0,13
+Spiced Brew,Chicken Keema Roll,249.0,5
+Spiced Brew,Chicken Shawarma Wrap,239.0,5
+Spiced Brew,Crispy Chicken Wrap,249.0,12
+Spiced Brew,Falafel Shawarma Wrap,199.0,7
+Spiced Brew,Paneer Bhurji Roll,239.0,16
+Spiced Brew,Paneer Shawarama Wrap,219.0,7
+Spiced Brew,Paneer Kathi Roll,209.0,18
+Spiced Brew,Chilli Paneer Kathi Roll,219.0,15
+Spiced Brew,Mexican Style Veg Roll,209.0,20
+Spiced Brew,Egg Kathi Roll,179.0,49
+Spiced Brew,Chicken Kathi Roll,239.0,10
+Spiced Brew,Chilli Chicken Kathi Roll,249.0,16
+Spiced Brew,Mexican Style Chicken Roll,249.0,17
+Spiced Brew,Mutton Keema Roll,239.0,25
+Spiced Brew,Chicken Caesar Salad Wrap (cold),259.0,12
+Spiced Brew,Classic Caesar Salad,299.0,6
+Spiced Brew,Fattoush Salad,299.0,9
+Spiced Brew,Greek Salad,299.0,11
+Spiced Brew,Chilli Mushroom N Baby Corn,269.0,6
+Spiced Brew,Classic French Fries,159.0,6
+Spiced Brew,Corn N Cheese Cigar Rolls,239.0,42
+Spiced Brew,Crispy Corn Salt N Pepper,239.0,9
+Spiced Brew,Kala Channa Chaat,179.0,12
+Spiced Brew,Masala Peanut Chaat,179.0,12
+Spiced Brew,Onion Rings,209.0,15
+Spiced Brew,Peri Peri Fries,169.0,17
+Spiced Brew,Cheese Garlic Bread,209.0,8
+Spiced Brew,Honey Chilly Potato,229.0,6
+Spiced Brew,Maggi Masala In Butter Bun,189.0,5
+Spiced Brew,Mexican Nachos Chaat,199.0,47
+Spiced Brew,Saute Vegetables,249.0,5
+Spiced Brew,Chilli Paneer,259.0,11
+Spiced Brew,Cheesy Chicken Garlic Bread,259.0,5
+Spiced Brew,Chicken N Cheese Nachos,249.0,5
+The Royal Bistro,American Cheese Sandwich,180.0,5
+Burger Farm,Farm Aloo Tikki,70.0,31
+Burger Farm,Crispy Masala,94.0,9
+Burger Farm,Go Green,124.0,10
+Burger Farm,Popeye,124.0,5
+Burger Farm,Farm Spicy Paneer,174.0,8
+Burger Farm,Fiery Aloo Tikki,80.0,9
+Burger Farm,Tedha Teekha Burger,90.0,6
+Burger Farm,Cheese Masala Burger,208.0,5
+Burger Farm,Crispy Paneer Italia,224.0,18
+Burger Farm,Pepper Jack Cheese,144.0,6
+Burger Farm,Crispy Paneer Italia Meal,304.2,6
+Burger Farm,Farm Cheese Burst Meal,304.2,5
+Burger King,2 Med Fries.,230.0,246
+Burger King,BK Veggie Burger + Veg Taco.,229.0,298
+Burger King,Veg Makhani Burst Burger+ Medium Peri Peri Fries.,224.0,281
+Burger King,Whopper Jr Veg+ Crispy Veg.,219.0,658
+Burger King,1Crispy Veg Double Patty + 1Med Fries.,214.0,124
+Burger King,BK Veggie Burger + Crispy Veg Burger.,209.0,370
+Burger King,Crispy Chicken + Med Fries.,205.0,88
+Burger King,Crispy Chicken + Crunchy Chicken Taco.,200.0,37
+Burger King,Classic Cold Coffee.,199.0,81
+Burger King,Cappuccino (S)+ Hashbrown.,198.0,22
+Burger King,Whopper Jr Chicken with Cheese Burger.,194.0,82
+Burger King,Double Crispy Veg + Double Crispy Veg.,190.0,619
+Burger King,Crispy Veg Double Patty Burger+Veg Crunchy Taco.,189.0,267
+Burger King,Mango Shake.,189.0,71
+Burger King,Chocolate Shake.,189.0,159
+Burger King,Crispy Veg Burger+Med Fries.,185.0,53
+Burger King,Crispy Chicken + Medium Soft Drink (Cola).,185.0,14
+Burger King,Crispy Chicken + Chicken Nuggets (4Pcs).,185.0,12
+Burger King,Crispy Chicken with Cheese Burger + Fries (Reg).,185.0,358
+Burger King,Crispy Chicken + Crispy Chicken.,180.0,11
+Burger King,Chicken Whopper Jr Double Patty.,219.0,16
+Burger King,Crunchy Chicken Taco + Fries (Reg).,180.0,92
+Burger King,BK Chicken Double Patty Burger.,179.0,24
+Burger King,Whopper Jr Veg with Cheese Burger.,174.0,15
+Burger King,(6Pc) Crunchy Chicken Nuggets + 1 Dip.,169.0,7
+Burger King,Crispy Veg + Medium Soft Drink (Cola).,165.0,84
+Burger King,Crispy Veg with Cheese Burger + Fries (Reg).,165.0,6
+Burger King,BK Chicken Burger with Cheese.,164.0,11
+Burger King,Crispy Veg + Crispy Chicken.,160.0,198
+Burger King,Crunchy Veg Taco + Fries (Reg).,160.0,40
+Burger King,BK Veggie Double Patty Burger.,159.0,44
+Burger King,Bk Veggie Burger with Cheese.,154.0,6
+Burger King,Boneless Wings Regular.,149.0,15
+Burger King,Veg Whopper Jr Double Patty.,189.0,81
+Burger King,Chicken Wings Fried - Four Pieces.,149.0,58
+Burger King,"2 Veg Crunchy Taco + Med Fries,",169.0,180
+Burger King,"2 BK Veggie Burgers,",169.0,136
+Burger King,"1 Crunchy Chicken Taco + Medium Peri Peri Fries,",169.0,21
+Burger King,"2 King Fries,",169.0,7
+Burger King,"Chocolate Thick Shake + Crispy Veg Burger,",169.0,8
+Burger King,"Fries (M) + BK Veggie Burger,",169.0,6
+Burger King,"Classic Cold Coffee + Hashbrown,",169.0,13
+Burger King,"Veg Whopper Jr + Crunchy Veg Taco,",169.0,9
+Burger King,"Crispy Chicken Burger + BK Chicken Burger,",169.0,14
+Burger King,"Chicken Whopper Jr + Fries (Reg),",169.0,9
+Burger King,"BK Chicken with Cheese + Fries (Reg),",169.0,12
+Burger King,"BK Veggie with Cheese + Fries (Reg),",169.0,6
+Burger King,"Veg Whopper Jr + Fries (Reg),",169.0,6
+Burger King,"Chicken Makhani Burst Burger + Crunchy Chicken Taco,",169.0,463
+Burger King,"Fiery Chicken Burger,",169.0,77
+Burger King,"Chicken Tandoori Burger,",169.0,499
+Burger King,"Hot 'N' Cheezy Burger,",169.0,13
+Burger King,"Paneer Royale Burger,",169.0,9
+Burger King,"2 Crunchy Chicken Taco,",169.0,27
+Burger King,Fiery Chicken Wrap+Fries(Reg),279.0,27
+Burger King,Paneer Royale Wrap+Fries(Reg),279.0,8
+Burger King,Hot 'N' Cheezy Burger+Fries(Reg),269.0,93
+Burger King,Fiery Chicken Burger+Fries(Reg),269.0,795
+Burger King,Paneer Royale Burger+Fries(Reg),269.0,31
+Burger King,Chicken Tandoori+Fries(Reg),269.0,5
+Burger King,Whopper Jr Chicken+Fries(Reg),249.0,293
+Burger King,BK Chicken Burger+Fries(Reg),229.0,96
+Burger King,Whopper Jr Veg+Fries(Reg),229.0,190
+Burger King,Veg Whopper+Fries(Reg),229.0,132
+Burger King,Chicken Whopper+Fries(Reg),229.0,66
+Burger King,BK Veggie Burger+Fries(Reg),219.0,99
+Burger King,Crispy Chicken Double Patty Burger+Fries(Reg),209.0,9
+Burger King,Crunchy Chicken Taco+Fries(Reg),190.0,42
+Burger King,Chicken Makhani Burst Burger+Fries(Reg),180.0,13
+Burger King,Crispy Veg Double Patty Burger+Fries(Reg),179.0,57
+Burger King,Crispy Chicken Burger+Fries(Reg),170.0,20
+Burger King,Veg Crunchy Taco+Fries(Reg),170.0,11
+Burger King,Veg Makhani Burst Burger+Fries(Reg),160.0,27
+Burger King,Crispy Veg Burger+Fries(Reg),150.0,84
+Burger King,Crispy Veg Burger+Fries(M),160.0,16
+Burger King,Veg Crunchy Taco+Fries(M),180.0,107
+Burger King,Crispy Chicken Burger+Fries(M),189.0,115
+Burger King,Crispy Veg Double Patty Burger+Fries(M),189.0,46
+Burger King,Crunchy Chicken Taco+Fries(M),209.0,31
+Burger King,BK Veggie Burger+Fries(M),229.0,10
+Burger King,Crispy Chicken Double Patty Burger+Fries(M),229.0,19
+Burger King,BK Chicken Burger+Fries(M),239.0,13
+Burger King,Whopper Jr Veg+Fries(M),239.0,45
+Burger King,Veg Whopper+Fries(M),269.0,5
+Burger King,Paneer Royale Wrap+Fries(M),299.0,7
+Burger King,Chicken Whopper+Fries(M),289.0,7
+Burger King,Super Over Combo - Veg,596.0,12
+Burger King,Super Over Combo - Chicken,636.0,8
+Burger King,Game Changer Combo - Veg,656.0,5
+Burger King,Game Changer Combo - Chicken,696.0,11
+Burger King,The Hattrick Combo - Veg,736.0,5
+Burger King,The Hattrick Combo - Chicken,776.0,5
+Burger King,Premium Family Feast for 4 - Veg,953.0,81
+Burger King,Premium Family Feast for 4 - Chicken,982.0,99
+Burger King,Classic Family Feast for 4 - Veg,731.0,7
+Burger King,Classic Family Feast for 4 - Chicken,828.0,8
+Burger King,Whopper Duo - Veg,682.0,12
+Burger King,Whopper Duo - Non Veg,722.0,19
+Burger King,Cheezy Duo - Veg,628.0,8
+Burger King,Fiery Duo - Non Veg,628.0,7
+Burger King,Binging Duo - Veg,616.0,37
+Burger King,Binging Duo - Non Veg,696.0,8
+Burger King,Indulgent Duo - Veg,628.0,23
+Burger King,Indulgent Duo - Non Veg,628.0,24
+Burger King,Paneer Royale Burger + Hot 'N' Cheezy Burger + 1 Med Fries,418.0,33
+Burger King,2 Hot 'N' Cheezy Burger + 1 Med Fries,418.0,6
+Burger King,2 Fiery Chicken Burger + 1 Med Fries,418.0,145
+Burger King,2 Paneer Royale Burger + 1 Med Fries,418.0,21
+Burger King,2 Chicken Tandoori Burger + 1 Med Fries,418.0,7
+Burger King,Veg Whopper,179.0,233
+Burger King,Veg Whopper with Cheese,204.0,410
+Burger King,Chicken Whopper,199.0,79
+Burger King,Boss Whopper Veg,219.0,34
+Burger King,Chicken Whopper with Cheese,224.0,59
+Burger King,Veg Whopper Double Patty,229.0,58
+Burger King,Boss Whopper Chicken,239.0,32
+Burger King,Chicken Whopper Double Patty,259.0,93
+Burger King,Mutton Whopper,319.0,15
+Burger King,Boss Whopper Mutton,359.0,24
+Burger King,Mutton Whopper Double Patty,389.0,10
+Burger King,Paneer Royale Wrap,209.0,74
+Burger King,Crispy Veg Burger,70.0,25
+Burger King,Chicken Makhani Burst Burger,109.0,71
+Burger King,Fiery Chicken Wrap,209.0,16
+Burger King,Veg Crunchy Taco,90.0,198
+Burger King,Veg Makhani Burst Burger,80.0,40
+Burger King,Crispy Chicken Burger,99.0,47
+Burger King,Crispy Veg Double Patty Burger,99.0,40
+La Pino'z Pizza,Margherita Pizza,135.0,108
+La Pino'z Pizza,Makhani Do Pyaza,155.0,14
+La Pino'z Pizza,My Mac,155.0,45
+La Pino'z Pizza,Onion Twist,155.0,20
+La Pino'z Pizza,Sweet Corns Delight,155.0,10
+La Pino'z Pizza,Country Side Pizza,175.0,25
+La Pino'z Pizza,Garden Delight Pizza,195.0,7
+La Pino'z Pizza,Lovers Bite Pizza,175.0,14
+La Pino'z Pizza,Spring Fling Pizza,195.0,22
+La Pino'z Pizza,Macaroni Special Pizza,235.0,28
+La Pino'z Pizza,Burn To Hell Pizza,235.0,9
+La Pino'z Pizza,Cheezy-7 Pizza,255.0,86
+La Pino'z Pizza,Farm Villa Pizza,255.0,12
+La Pino'z Pizza,Garden Special Pizza,235.0,6
+La Pino'z Pizza,Paneer Tikka Butter Masala Pizza,255.0,28
+La Pino'z Pizza,Veg.hawaiian Pizza,235.0,9
+La Pino'z Pizza,Cheese Lover Pizza,255.0,13
+La Pino'z Pizza,African Peri Peri Veg Pizza,255.0,5
+La Pino'z Pizza,Cheesy Macaroni Veg Pizza,255.0,8
+La Pino'z Pizza,English Retreat Pizza,255.0,8
+La Pino'z Pizza,Garlic-to-pizza,255.0,8
+La Pino'z Pizza,Hot Passion Pizza,255.0,6
+La Pino'z Pizza,Korma Special Pizza,255.0,16
+La Pino'z Pizza,La Pino'z Paneer Pizza,255.0,73
+La Pino'z Pizza,Las Vegas Treat Pizza,255.0,28
+La Pino'z Pizza,Peri Peri Veg Pizza,255.0,90
+La Pino'z Pizza,Veg Tamer Pizza,275.0,20
+La Pino'z Pizza,Super BBQ,155.0,65
+La Pino'z Pizza,Exotic Tikka Pizza,175.0,10
+La Pino'z Pizza,Hawaiian Special,175.0,14
+La Pino'z Pizza,Korma Delight,175.0,50
+La Pino'z Pizza,Seekh Special,175.0,26
+La Pino'z Pizza,Chicken De-light Pizza,235.0,30
+La Pino'z Pizza,Tandoori Chicken Pizza,235.0,22
+La Pino'z Pizza,Chicago Delight Pizza,235.0,22
+La Pino'z Pizza,Texas Bbq'ed Pizza,235.0,7
+La Pino'z Pizza,Hot Tandoori Pizza,255.0,22
+La Pino'z Pizza,Indian Chicken Special Pizza,255.0,14
+La Pino'z Pizza,Korma Chicken Pizza,255.0,41
+La Pino'z Pizza,La Pino'z Chicken Pizza,255.0,25
+La Pino'z Pizza,Mixed Grill Pizza,255.0,9
+La Pino'z Pizza,Non-veg Hawaiian Pizza,255.0,5
+La Pino'z Pizza,California Chicken Pizza,275.0,9
+La Pino'z Pizza,Meat Blast Pizza,275.0,10
+La Pino'z Pizza,Cheesy Chicken Pizza,275.0,9
+La Pino'z Pizza,Cheesy Macaroni Non-veg Pizza,275.0,6
+La Pino'z Pizza,Chicken Tikka Lababdar Pizza,275.0,19
+La Pino'z Pizza,Fire-e-chicken Pizza,275.0,12
+La Pino'z Pizza,Peri Peri - Chicken Pizza,275.0,7
+La Pino'z Pizza,Spanish Sizzles Pizza,275.0,6
+La Pino'z Pizza,Non-veg Tamer Pizza,295.0,10
+La Pino'z Pizza,Cheesy,135.0,9
+La Pino'z Pizza,Korma Pyaza,135.0,11
+La Pino'z Pizza,Loaded Pesto,135.0,5
+La Pino'z Pizza,Pesto Veg,129.0,7
+La Pino'z Pizza,Spicy Veg,129.0,7
+La Pino'z Pizza,Capsicum Pizza,109.0,15
+La Pino'z Pizza,Capsicum & Paneer Pizza,139.0,23
+La Pino'z Pizza,"Capsicum, Paneer & Red Paprika Pizza",145.0,10
+La Pino'z Pizza,Onions Pizza,89.0,35
+La Pino'z Pizza,Sweet Corns Pizza,109.0,9
+La Pino'z Pizza,Onions & Capsicum Pizza,129.0,6
+Theobroma,Strawberry Cheesecake [1/2kg],775.0,5
+Theobroma,Strawberry & Fresh Cream Pastry [1 Piece],150.0,7
+Theobroma,Chocolate & Strawberry Pastry [1 Piece],150.0,17
+Theobroma,Strawberry Cheesecake Cup [105g],190.0,12
+Theobroma,Strawberry Tart [1 Piece],215.0,26
+Theobroma,Choice of Croissant/Danish & Choice of Coffee,215.0,25
+Theobroma,Choice of Eggless Brownie + Choice of Coffee,235.0,13
+Theobroma,Choice of Eggless Pastry + Choice of Coffee,245.0,8
+Theobroma,Choice of Brownie + Choice of Coffee,235.0,12
+Theobroma,Choice of Pastry + Choice of Coffee,245.0,16
+Theobroma,Choice of Non-Veg Sandwiches & Rolls + Choice of Coffee,315.0,23
+Theobroma,Indulgence Hamper (Eggless),3000.0,10
+Theobroma,Luxury Hamper (Eggless),2200.0,7
+Theobroma,Premium Hamper (Eggless),1600.0,19
+Theobroma,Indulgence Hamper,3000.0,8
+Theobroma,Luxury Hamper,2100.0,10
+Theobroma,Premium Hamper,1500.0,9
+Theobroma,Eggless Crumble Brownie [1 Piece],105.0,6
+Theobroma,Eggless Choco Chip Brownie [1 Piece],105.0,8
+Theobroma,Eggless Walnut Brownie [1 Piece],105.0,7
+Theobroma,Eggless Cookie Brownie [1 Piece],105.0,6
+Theobroma,Eggless Millionaire Brownie [1 Piece],110.0,8
+Theobroma,Eggless Outrageous Chocolate Brownie [1 Piece],110.0,7
+Theobroma,Assorted Eggless Brownies Box [12 Pcs],1280.0,6
+Theobroma,Assorted Eggless Brownies Box [6 Pcs],640.0,7
+Theobroma,Crumble Brownie [1 Piece],105.0,6
+Theobroma,Walnut Brownie [1 Piece],105.0,7
+Theobroma,Choco Chip Brownie [1 Piece],105.0,8
+Theobroma,Cookie Brownie [1 Piece],105.0,21
+Theobroma,Overload Brownie [1 Piece],110.0,11
+Theobroma,Millionaire Brownie [1 Piece],110.0,16
+Theobroma,Assorted Brownies Box [6 Pcs],640.0,25
+Theobroma,Assorted Brownies Box [12 Pcs],1280.0,5
+Theobroma,Dutch Truffle Cake [1/2kg],575.0,7
+Dasaprakash - A South Indian Cafe,Sada Dosa,120.0,5
+Dasaprakash - A South Indian Cafe,Butter Sada Dosa,130.0,50
+Dasaprakash - A South Indian Cafe,Masala Dosa,140.0,53
+Dasaprakash - A South Indian Cafe,Butter Masala Dosa,150.0,6
+Dasaprakash - A South Indian Cafe,Paper Sada Dosa,180.0,5
+Dasaprakash - A South Indian Cafe,Paper Masala Dosa,190.0,8
+Dasaprakash - A South Indian Cafe,Mysore Dosa,160.0,18
+Dasaprakash - A South Indian Cafe,Mysore Masala Dosa,180.0,8
+Dasaprakash - A South Indian Cafe,Rava Sada Dosa,170.0,14
+Dasaprakash - A South Indian Cafe,Rava Masala Dosa,190.0,27
+Dasaprakash - A South Indian Cafe,Onion Rava Dosa,180.0,61
+Dasaprakash - A South Indian Cafe,Onion Rava Masala Dosa,200.0,9
+Dasaprakash - A South Indian Cafe,Chef Special Dosa,240.0,10
+Dasaprakash - A South Indian Cafe,Onion Uttapam,190.0,9
+Dasaprakash - A South Indian Cafe,Coriander Uttapam,195.0,7
+Starbucks Coffee,Short Signature Hot Chocolate with Masala Potato Puff,435.0,11
+Starbucks Coffee,Tall Cappuccino with Egg White & Chicken in Multigrain Croissant,635.0,9
+Starbucks Coffee,Tall Java Chip Frappuccino with Chilli Cheese Toast,645.0,6
+Starbucks Coffee,Tall Cold Coffee with Tandoori Chicken Panini Sandwich,705.0,5
+Starbucks Coffee,Tall Cappuccino with Herbed Chicken Focaccia Sandwich,695.0,15
+Starbucks Coffee,Tall Chocolate Milkshake with Pesto & Mozzarella Sandwich in Panini,720.0,6
+Starbucks Coffee,Picco Latte,240.0,7
+Starbucks Coffee,Picco Cappuccino,235.0,59
+Starbucks Coffee,Picco Filter Coffee,240.0,10
+Starbucks Coffee,Picco Signature Hot Chocolate,245.0,10
+Starbucks Coffee,Bhuna Chicken Puff,190.0,25
+Starbucks Coffee,Masala Potato Puff,165.0,18
+Starbucks Coffee,Herbed Chicken Focaccia Sandwich.,405.0,8
+Starbucks Coffee,Spiced Paneer Sandwich in Focaccia.,390.0,10
+Starbucks Coffee,Tandoori Chicken Panini Sandwich.,410.0,6
+Starbucks Coffee,Pesto & Mozzarella Sandwich in Panini.,405.0,5
+Starbucks Coffee,Creamy Spinach & Corn Pocket,230.0,7
+Starbucks Coffee,Chilly Chicken in English Muffin.,280.0,6
+Starbucks Coffee,Chilli Paneer in Herbed Bun,280.0,8
+Starbucks Coffee,Chilli Cheese Toast,330.0,6
+Starbucks Coffee,Podi Cream Cheese Bagel,295.0,5
+Achman Foods,Navratan Curry,405.0,33
+Achman Foods,Mushroom Matar Masala,370.0,30
+Achman Foods,Mushroom Paneer,370.0,59
+Achman Foods,Paneer Makhani,370.0,7
+Achman Foods,Kadai Paneer,380.0,5
+Achman Foods,Paneer Butter Masala,380.0,7
+Achman Foods,Shahjahani Kofta,380.0,64
+Achman Foods,Shahi Paneer,380.0,8
+Achman Foods,Paneer Kofta,380.0,5
+Achman Foods,Cheese Cocktail Curry,380.0,15
+Achman Foods,Veg Keema,405.0,25
+Achman Foods,Veg Bomb,380.0,19
+Achman Foods,Khoya Paneer,380.0,13
+Achman Foods,Khoya Matar,380.0,9
+Achman Foods,Kashmiri Aloo,380.0,10
+Achman Foods,Malai Kofta,385.0,24
+Achman Foods,Matar Paneer,370.0,36
+Achman Foods,Chana Masala,360.0,8
+Achman Foods,Chole [Large],340.0,12
+Achman Foods,Stuffed Tomato,360.0,11
+Achman Foods,Stuffed Shimla Mirch,360.0,5
+Achman Foods,Mix Veg,360.0,8
+Temptation,Tandoori Platter,391.0,7
+Temptation,Chinese Platter,420.0,11
+Temptation,Cream of Tomato Soup,127.0,7
+Temptation,Tomato Shorba,115.0,16
+Temptation,Cream of Vegetable Soup,127.0,21
+Temptation,Cream of Mushroom Soup,156.0,25
+Temptation,Minestrone Soup,138.0,85
+Temptation,Vegetable Noodles Soup,138.0,83
+Temptation,Hot & Sour Soup,144.0,11
+Temptation,Sweet Corn Soup,144.0,13
+Temptation,Manchow Soup,144.0,115
+Temptation,Mix Salad,115.0,6
+Temptation,Onion Salad,75.0,37
+Temptation,Russian Salad,299.0,18
+Temptation,Kachumar Salad,138.0,5
+Temptation,Paneer Tikka,351.0,71
+Temptation,Chilli Paneer,351.0,5
+Temptation,Paneer Manchurian,276.0,5
+Temptation,Vegetable Manchurian,271.0,28
+Temptation,Baby Corn Manchurian Dry,276.0,48
+Temptation,Chilliy Honey Potato,276.0,35
+Temptation,Chilly Mushroom,351.0,16
+Temptation,Chilli Paneer Gravy,351.0,71
+Temptation,Paneer Manchurian Gravy,276.0,87
+Temptation,Vegetable Manchurian Gravy,271.0,7
+Temptation,Temptation Special Veg,391.0,24
+Temptation,Temptation Special Veg keema,391.0,15
+Temptation,Navratan Curry,357.0,19
+Temptation,Kaju Curry,409.0,7
+Temptation,Kaju Pineapple Curry,409.0,20
+Temptation,Cheese Cocktail Curry,351.0,5
+Temptation,Paneer Makhani,328.0,8
+Temptation,Shahi Paneer,328.0,5
+Temptation,Kadai Paneer,334.0,17
+Temptation,Paneer Butter Masala,340.0,10
+Temptation,Paneer Pasanda,345.0,7
+Temptation,Paneer Tikka Masala,351.0,5
+Temptation,Matar Paneer,282.0,6
+Temptation,Malai Kofta,328.0,6
+Temptation,Shajahani Kofta,351.0,19
+Temptation,Paneer Kofta,340.0,5
+Temptation,Sabji Kofta,259.0,6
+Temptation,Kashmiri Aloo,311.0,8
+Temptation,Dum Aloo,276.0,7
+Temptation,Chana Masala,282.0,5
+Cheesy Bees,Classic Pizza Meal,189.0,9
+Cheesy Bees,Classic Burger Meal,150.0,10
+Cheesy Bees,Cheesy Bees Special Group Meal,369.0,7
+Cheesy Bees,Paneer Manchurian [Serves 1],180.0,6
+Sardar G Malai Chaap Junction,Achari Chaap,209.0,22
+Sardar G Malai Chaap Junction,Adraki Chaap,209.0,63
+Sardar G Malai Chaap Junction,Afghani Chaap,209.0,45
+Sardar G Malai Chaap Junction,Crispy Chaap,209.0,18
+Sardar G Malai Chaap Junction,Crispy Kabab,209.0,21
+Sardar G Malai Chaap Junction,Crispy Paneer,209.0,10
+Sardar G Malai Chaap Junction,Dhua-dhar Chaap,209.0,18
+Sardar G Malai Chaap Junction,Dilruba Chaap,209.0,447
+Sardar G Malai Chaap Junction,Jai Veeru Chaap,209.0,48
+Sardar G Malai Chaap Junction,Kadai Malai Chaap,209.0,5
+Sardar G Malai Chaap Junction,Kali Mirch Chaap,209.0,11
+Sardar G Malai Chaap Junction,Lehsuni Chaap,209.0,22
+Sardar G Malai Chaap Junction,Lemon Chaap,209.0,337
+Sardar G Malai Chaap Junction,Malai Chaap,209.0,115
+Sardar G Malai Chaap Junction,Malai Stuff Chaap,209.0,17
+Sardar G Malai Chaap Junction,Masala Stuff Chaap,209.0,5
+Sardar G Malai Chaap Junction,Pudina Chaap,209.0,113
+Sardar G Malai Chaap Junction,Punjabi Chaap,209.0,7
+Sardar G Malai Chaap Junction,Shahi Mixture Chaap,209.0,18
+Sardar G Malai Chaap Junction,Shahi Tukda Chaap,209.0,19
+Sardar G Malai Chaap Junction,Veg Achari Tikka,209.0,38
+Sardar G Malai Chaap Junction,Veg Chicken Tikka,209.0,10
+Sardar G Malai Chaap Junction,Veg Dhua Dhar Chicken Tikka,209.0,9
+Sardar G Malai Chaap Junction,Veg Lollipop,209.0,13
+Sardar G Malai Chaap Junction,Veg Makhni Chicken Tikka,209.0,60
+Sardar G Malai Chaap Junction,Veg Malai Tngdi,209.0,56
+Sardar G Malai Chaap Junction,Veg Mughlai Chicken Tikka,209.0,62
+Sardar G Malai Chaap Junction,Veg Reshmi Chicken Tikka,209.0,15
+Sardar G Malai Chaap Junction,Veg Shahi Tangdi,209.0,115
+Sardar G Malai Chaap Junction,Achari Paneer Tikka,249.0,7
+Sardar G Malai Chaap Junction,Dhua-Dhar Paneer Tikka,249.0,33
+Sardar G Malai Chaap Junction,Kali Mirch Paneer Tikka,249.0,23
+Sardar G Malai Chaap Junction,Lemon Paneer Tikka,249.0,35
+Sardar G Malai Chaap Junction,Malai Paneer Tikka,249.0,13
+Sardar G Malai Chaap Junction,Pudina Paneer Tikka,249.0,25
+Sardar G Malai Chaap Junction,Tandoori Paneer Tikka,249.0,7
+Sardar G Malai Chaap Junction,Dhua Dhar Chaap Gravy,289.0,22
+Sardar G Malai Chaap Junction,Kadai Chaap Gravy,289.0,15
+Sardar G Malai Chaap Junction,Kali Mirch Chaap Gravy,289.0,6
+Sardar G Malai Chaap Junction,Shahi Chaap Gravy,289.0,5
+Sardar G Malai Chaap Junction,Tawa Chaap Gravy,289.0,28
+Sardar G Malai Chaap Junction,Dhua Dhar Paneer,319.0,9
+Sardar G Malai Chaap Junction,Kadai Paneer,319.0,9
+Sardar G Malai Chaap Junction,Kali Mirch Paneer,319.0,24
+Sardar G Malai Chaap Junction,Matka Paneer,319.0,5
+Sardar G Malai Chaap Junction,Paneer Butter Masala,319.0,6
+Sardar G Malai Chaap Junction,Paneer Do Piyaza,319.0,15
+Sardar G Malai Chaap Junction,Paneer Lababdar,319.0,32
+Sardar G Malai Chaap Junction,Shahi Paneer,319.0,6
+Sardar G Malai Chaap Junction,Tawa Paneer,319.0,6
+Sardar G Malai Chaap Junction,Veg Beli Ram Chicken,299.0,28
+Sardar G Malai Chaap Junction,Veg Bhuna Ghosht,299.0,22
+Sardar G Malai Chaap Junction,Veg Black Mutton,299.0,11
+Sardar G Malai Chaap Junction,Veg Butter Chicken,299.0,7
+Sardar G Malai Chaap Junction,Veg Chicken Do Pyaaza,299.0,17
+Sardar G Malai Chaap Junction,Veg Chicken Korma,299.0,28
+Sardar G Malai Chaap Junction,Veg Dhaba Mutton,299.0,126
+Sardar G Malai Chaap Junction,Veg Keema Kaleji,299.0,90
+Sardar G Malai Chaap Junction,Veg Matka Mutton,299.0,36
+Sardar G Malai Chaap Junction,Veg Mughlai Mutton,299.0,12
+Sardar G Malai Chaap Junction,Veg Mutton Korma,299.0,21
+Sardar G Malai Chaap Junction,Dal Adraki,259.0,13
+Sardar G Malai Chaap Junction,Dal Bukhara,259.0,5
+Sardar G Malai Chaap Junction,Dal Dhaba,259.0,11
+Sardar G Malai Chaap Junction,Dal Lehsuni,259.0,117
+Sardar G Malai Chaap Junction,Dal Makhni,259.0,567
+Sardar G Malai Chaap Junction,Dal Peshawari,259.0,55
+Sardar G Malai Chaap Junction,Shahi Dal Makhni,259.0,57
+Sardar G Malai Chaap Junction,Achari Chaap Roll,239.0,36
+Sardar G Malai Chaap Junction,Afghani Chaap Roll,239.0,9
+Sardar G Malai Chaap Junction,Dhua-dhar Chaap Roll,239.0,21
+Sardar G Malai Chaap Junction,Dilruba Chaap Roll,239.0,26
+Arabian Bites,Veg Classic Burger,65.0,5
+Arabian Bites,Veg Cheese Burger,75.0,20
+Arabian Bites,Paneer Special Burger,125.0,5
+Arabian Bites,Mix Veg Burger,75.0,5
+Tipsy Grill,Crispy Corn Spinach,99.0,8
+Tipsy Grill,Fries Fill Burger,112.0,73
+Tipsy Grill,Super Loaded Panner,188.0,7
+Tipsy Grill,Tipsy Aloo Burger,62.0,19
+Tipsy Grill,Veggie Bomb Burger,125.0,6
+Tipsy Grill,BBQ Grill,138.0,10
+Tipsy Grill,Chicken Bomb Burger,188.0,12
+Tipsy Grill,Fries Fill Chicken Burger,125.0,5
+Tipsy Grill,Tipsy Chicken Burger,87.0,16
+Tipsy Grill,Bbq Loaded Fries,149.0,7
+Tipsy Grill,Cheese Pull Fries,149.0,6
+Tipsy Grill,Classic Fries,112.0,6
+Tipsy Grill,Csirpy Salsa Fries,149.0,17
+Tipsy Grill,Paneer Makhani Fries,149.0,11
+Tipsy Grill,Peri Blast Fries,149.0,12
+Tipsy Grill,Zesty Nachos Fries,149.0,5
+Tipsy Grill,Chicken Cheese Bbq Fries,163.0,6
+Tipsy Grill,Chicken Tikka Cheese Fries,163.0,5
+Tipsy Grill,Chicken Tikka Makhani Fries,163.0,24
